@@ -1,3 +1,14 @@
-name: Tri Nguyen
 markdown: kramdown
-theme: jekyll-theme-cayman
+description: Making sense in a tumultuous world
+title: Tri Nguyen
+url: "http://tri47.github.io/"
+exclude: [README.md, .gitignore, Gemfile, Gemfile.lock]
+theme: minima
+social_links:
+  github: tri47
+  linkedin: tri-q-nguyen
+author:
+  name: Tri Nguyen
+  email: jnqtri@gmail.com
+minima:
+  skin: dark
