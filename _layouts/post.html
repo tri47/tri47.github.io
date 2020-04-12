@@ -1,14 +1,6 @@
 ---
 layout: default
 ---
-{% if page.htmlwidgets %}
-{% for html_dep in site.static_files %}
-  {% if html_dep.path contains 'htmlwidgets_deps/' %}
-    {% assign start = "<script src=" | append: {{site.baseurl}} %}
-    {{html_dep.path | prepend: start | append: "></script>" }}
-    {% endif %}
-  {% endfor %}
-{% endif %}
 
 {%- include post-title.html title = page.title subtitle=page.subtitle color=page.color -%}
 
@@ -19,7 +11,7 @@ layout: default
   <header class="post-header">
 
     <p class="post-meta">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- assign date_format = site.minima.date_format | default: "%d %-b, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: date_format }}
       </time>
