@@ -24,11 +24,11 @@ To get the query structure, open a public profile page in Firefox. Right click a
 
 Next, select Network, you will find a list of queries that were sent to Istagram's server. Scroll on the profile page to retrieve a few more posts while keeping the Network window open.
 
-![screenshot](/images/scrape1.png)
+![screenshot](/assets/images/scrape1.png)
 
 You should see a new GET query now. Click on that to open a new window. 
 
-![screenshot](/images/scrape2.png)
+![screenshot](/assets/images/scrape2.png)
 
 Click on XHR, and copy the request URL. If you paste this to your browser, you will receive the raw respond from Instagram, you can explore the JSON structure here.
 
@@ -53,7 +53,7 @@ It's a shame that I had to jump through all these hoops to get the data that sho
 
 It just shows how crucial the control of data is, as there is so much insights and values you can derive from it.
 
-![pancake](/images/pancake.png)
+![pancake](/assets/images/pancake.png)
 
 
 
