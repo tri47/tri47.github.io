@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A tale of three A's"
+title: "A tale of three A's: Australian stock market vs Gold and Silver"
 subtitle: "An anlysis of ASX 200 performance versus Gold and Silver over the last 30 years"
 date: 2020-04-10
 image: "au.png"

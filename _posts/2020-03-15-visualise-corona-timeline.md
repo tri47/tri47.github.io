@@ -2,7 +2,7 @@
 layout: post
 title: "Visualising the CoVid-19 timeline"
 subtitle: ""
-date: 2020-03-05
+date: 2020-03-15
 image: "2020-03-05-visualise-corona-timeline.png"
 color: "#663399"
 ---
