@@ -2,18 +2,15 @@
 layout: default
 ---
 <!DOCTYPE html>
-
-
-
  
-    {%- include post-title.html title = page.title subtitle=page.subtitle color=page.color image=page.image -%}
-    <div class="wrapper" style="width: 100%;">
-    <main class="page-content" aria-label="Content" style="padding-top: 0px">
-      <div class="wrapper">
-  
-        {{ content }}
-      </div>
-    </main>
-
-
+{%- include post-title.html title = page.title subtitle=page.subtitle color=page.color image=page.image -%}
+<div class="wrapper" style="width: 80%;">
+    <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+        <div class="post-content e-content" itemprop="articleBody">
+          {{ content }}
+        </div>
+    </article>
 </div>
+
+
+
