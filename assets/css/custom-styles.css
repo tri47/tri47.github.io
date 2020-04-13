@@ -78,16 +78,13 @@ html,body
 .post-title {
     font-size: 42px;
     margin-left: 10px;
-    margin-right: 10px;
-    
+    margin-right: 10px;  
 }
 
 .title-image-container {
     width: 100%;
     text-align: center;
-
 }
-
 
 .post-title-image {
     width: 160px;
@@ -130,8 +127,8 @@ html,body
 
 .each-post {
     max-width: 45%;
-    margin: 10px;
-    min-width: 300px; 
+    margin: 5px;
+    min-width: 330px; 
 
 }
 
