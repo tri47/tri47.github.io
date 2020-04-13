@@ -6,7 +6,7 @@ date: 2020-03-12
 image: "coronatimeline.png"
 color: "#663399"
 ---
-*This post contains interactive charts which are best viewed on a large screen.*
+*This post contains interactive charts which are best viewed on a large screen or in landscape mode.*
 
 During the early phase of the Covid-19 outbreak in Australia, the media focused mostly on the number of new cases and deaths, and not much on recovery. It prompted me to go digging to understand the severity of the pandemic.
 

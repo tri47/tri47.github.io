@@ -1,13 +1,13 @@
+---
+layout: default
+---
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {%- include head.html -%}
 
-  <body>
 
-    {%- include header.html -%}
+ 
     {%- include post-title.html title = page.title subtitle=page.subtitle color=page.color image=page.image -%}
-
+    <div class="wrapper" style="width: 100%;">
     <main class="page-content" aria-label="Content" style="padding-top: 0px">
       <div class="wrapper">
   
@@ -15,8 +15,5 @@
       </div>
     </main>
 
-    {%- include footer.html -%}
 
-  </body>
-
-</html>
+</div>
