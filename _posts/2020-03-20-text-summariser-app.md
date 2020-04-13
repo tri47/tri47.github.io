@@ -2,7 +2,7 @@
 layout: post
 title: "Building Tl;dr: a Text Summariser app"
 subtitle: "An extractive approach"
-date: 2020-03-15
+date: 2020-03-20
 image: "textsum.png"
 color: "#663399"
 ---
