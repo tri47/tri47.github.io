@@ -4,7 +4,7 @@ title: "Training an AI to write food blogs"
 subtitle: "What could possibly go wrong?"
 date: 2020-03-15
 image: "foodblog.png"
-color: "#663399"
+color: "#89306f"
 ---
 > Happy Sunday Melbourne! I’m here to spoon a delicious home-made Guacamole and Butternut Smoked Salmon.
 
