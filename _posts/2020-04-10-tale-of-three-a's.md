@@ -55,3 +55,4 @@ Therefore, it appears that Silver has not caught up to the growth in precious me
 We have only looked at the asset classes from a technical analysis's perspective and is therefore not a complete picture. But the trend indicates that the best time to buy into Gold for a quick return might have already past, and the next option is silver.  
 
 It would be intersting to conduct the same analysis for properties as well.
+
