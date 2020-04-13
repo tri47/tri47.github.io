@@ -1,5 +1,5 @@
 markdown: kramdown
-description: Making sense in a tumultuous world
+description: Making sense of a tumultuous world
 title: Tri Nguyen
 url: "http://tri47.github.io/"
 exclude: [README.md, .gitignore, Gemfile, Gemfile.lock]

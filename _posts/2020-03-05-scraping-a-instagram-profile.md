@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to scrape an Instagram public profile (in 2020)"
+title: "Scraping an Instagram public profile - 2020"
 subtitle: "(ideally your profile to avoid ethical dilemma)"
 date: 2020-03-05
 image: "instagram.png"
