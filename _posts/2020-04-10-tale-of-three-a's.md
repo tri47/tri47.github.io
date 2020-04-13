@@ -7,7 +7,7 @@ image: "au.png"
 color: "#4cadc7"
 htmlwidgets: TRUE
 ---
-*This post contains interactive charts which are best viewed on a large screen or in landscape mode.*
+***This post contains interactive charts which are best viewed on a large screen or in landscape mode.***
 
 This post is originally an [ipython notebook](https://github.com/tri47/ASX_vs_Metals/blob/master/analysis.ipynb) I created to explore the relative movement of ASX stocks (using ASX 200 index) vs Gold and silver over the last 30 years. Data was collated from:
 - Exchange rate data: rba.gov.au
