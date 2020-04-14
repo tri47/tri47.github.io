@@ -212,7 +212,7 @@ html,body
 }
 
 .post-content iframe {
-    width: 100%;
+    align-self: center;
 }
 
 /* INDEX PAGE CSS */
