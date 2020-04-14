@@ -257,6 +257,7 @@ article {
 #all-posts {
     display: flex;
     flex-wrap: wrap;
+    flex-direction: row-reverse;
     justify-content: space-between;
     width: 100%;
     margin: 0;
