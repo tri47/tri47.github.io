@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scraping an Instagram public profile"
-subtitle: "Because they won't give it to you easily"
+subtitle: "Because they won't give your data to you that easily"
 date: 2020-03-05
 image: "instagram.png"
 color: "#3366cc"
