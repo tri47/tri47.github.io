@@ -39,15 +39,18 @@ html,body
     font-style: normal;
     font-size: 11px;
     letter-spacing: 0px;
+    font-weight: bold;
+
 }
 
 .other-link {
     text-transform: uppercase;
      color : #9a3466;
     font-family: termina, sans-serif;
-    font-weight: 500;
+    font-weight: 200;
     font-style: normal;
     font-size: 11px;
+    font-weight: bold;
     letter-spacing: 0px;
 }
 
@@ -107,7 +110,7 @@ html,body
 }
 
 #main-header h3 {
-    font-size: 12px;
+    font-size: 13px;
     margin-top: 20px;
     line-height: 40px;
     text-align: left;
@@ -160,6 +163,11 @@ html,body
 .post-title {
     font-size: 30px; 
     text-align: left;
+    font-family: termina, sans-serif;
+    font-weight: 500;
+    line-height: 42px;
+    font-style: normal;
+
 }
 
 .subtitle {
@@ -309,7 +317,7 @@ html,body
     top: 10px;
     z-index: 1;
     font-family: termina, sans-serif;
-    font-weight: 550;
+    font-weight: 500;
     
 }
 
