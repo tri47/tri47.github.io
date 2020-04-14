@@ -1,3 +1,8 @@
 .whole-post {
     overflow-x: scroll;
 }
+
+.inactiveLink {
+    pointer-events: none;
+    cursor: default;
+ }
