@@ -20,6 +20,10 @@ In the graph below, we can see the relative price between ASX stocks and gold/si
 Gold's relative value to stocks peaked in 2009 during the GFC.  
 At the point of writing (April 2020), Gold's relative value to stocks aleady exceeded that during the GFC. This suggests that there may not be a lot of room for Gold to gain values relative to stocks.  
 Silver on the other hand, still has not reached its peak in 2011. This might suggest a buying opportunity.
+<div>
+    <a href="https://plotly.com/~tri.qu.nguyen/1/?share_key=roU3OOFzFGjFgivzCHw7RF" target="_blank" title="asx_gold_silver_ratio" style="display: block; text-align: center;"><img src="https://plotly.com/~tri.qu.nguyen/1.png?share_key=roU3OOFzFGjFgivzCHw7RF" alt="asx_gold_silver_ratio" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="tri.qu.nguyen:1" sharekey-plotly="roU3OOFzFGjFgivzCHw7RF" src="https://plotly.com/embed.js" async></script>
+</div>
 
 <iframe width="600" height="400" frameborder="0" scrolling="no" src="//plotly.com/~tri.qu.nguyen/1.embed"></iframe>
 
