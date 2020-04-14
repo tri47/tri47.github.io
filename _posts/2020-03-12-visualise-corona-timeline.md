@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visualising the CoVid-19 timeline"
-subtitle: "and try not to be a cynic"
+subtitle: "While trying not to be cynical"
 date: 2020-03-12
 image: "coronatimeline.png"
 color: "#663399"

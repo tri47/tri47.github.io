@@ -4,22 +4,20 @@
 </head>
 
 <div id="jumbotron-header" style="background-color: {{include.color}};"> 
-    <div class="title-block"> 
+    <div class="title-block">
         <div class='title-sub-container'>
-            <h1 class="post-title"> 
-                {{include.title}}
-            </h1> 
+                <h1 class="post-title"> 
+                    {{include.title}}
+                </h1> 
 
-            <h3 class="subtitle"> {{include.subtitle}}</h3> 
+                 <h3 class="subtitle"> {{include.subtitle}}</h3> 
 
-            {%if include.image  %}
-            <div class="title-image-container">
-                <div class="post-title-image" style="background-image: url('/assets/images/{{include.image}}')">
+                {%if include.image  %}
+                <div class="title-image-container">
+                    <div class="post-title-image" style="background-image: url('/assets/images/{{include.image}}')">
+                    </div>
                 </div>
-            </div>
-            {% endif %}
-  
-
+                {% endif %}
         </div>
     </div> 
 </div> 

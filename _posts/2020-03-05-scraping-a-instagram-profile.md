@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Scraping an Instagram public profile - 2020"
-subtitle: "(ideally your profile to avoid ethical dilemma)"
+title: "Scraping an Instagram public profile"
+subtitle: "Because they won't give it to you easily"
 date: 2020-03-05
 image: "instagram.png"
 color: "#3366cc"

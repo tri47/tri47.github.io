@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building Tl-DR: a text summariser app"
+title: "Building Tl-DR: an online <br/>text summariser"
 subtitle: "An extractive approach"
 date: 2020-03-20
 image: "textsum.png"

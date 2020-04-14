@@ -2,14 +2,14 @@
 layout: default
 ---
 
-{%- include post-title.html title = page.title subtitle=page.subtitle color=page.color -%}
+{%- include post-title.html title = page.title subtitle="" color=page.color -%}
 
 <div class="wrapper" style="width: 80%;">
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-
+    <p style="color :{{page.color}}; font-size: 18px; font-weight: bold;">{{page.subtitle}}</p>
     <p class="post-meta">
       {%- assign date_format = site.minima.date_format | default: "%d %-b, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">

@@ -1,38 +1,45 @@
 ---
 layout: default
 title: Home
+
 ---
 <head> 
     <link rel="stylesheet" href="/assets/css/custom-styles.css">
+    <link rel="stylesheet" href="https://use.typekit.net/znl5vww.css">
 </head>
 
 <div class="wrapper">
-    <div id="main-header"> 
-        <div id="main-text-block">
-            <h1 id="intro-block">
-                Making sense of a tumultuous world
-            </h1>
-            <h3>A personal journal on data, humans and anything in between</h3>
-        </div>
-    </div>
+
 
 
     <div id="all-posts">
+        <div id="main-header"> 
+            <div id="main-text-block">
+                <h1 id="intro-block">
+                    <span class="purple-text">Making</span> <span class="blue-text">sense</span> <span class="purple-text">of <br/> 
+                        a</span> <span class="blue-text">tumultuous</span> <br/>
+                        <span class="purple-text">world</span>
+                </h1>
+                <h3> <span class="purple-text">A personal journal on data, humans <br/>& anything in between </span> </h3>
+            </div>
+        </div>
+
         {% for post in site.posts %}
         <div class="each-post">
             <div class="index-container">
                     <a href="{{ post.url }}" title="{{ post.title }}">
                         <div class="post-index-title">
-                            {{ post.title }}
+                             <p> {{ post.title }} </p>
                         </div>
                         <div class='index-image-wrapper'>
                         <div class = "post-index-image">
                             <img src="assets/images/posts/{{post.image}}" alt="image"/>
                         </div>
                         </div>
+                        <h4 class="index-date">{{ post.date | date_to_string }} </h4>
+
                     </a>
             </div>
-            <h4 class="index-date">{{ post.date | date_to_string }} </h4>
 
         </div>
         {% endfor %}      

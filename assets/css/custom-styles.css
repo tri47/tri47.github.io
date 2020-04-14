@@ -1,3 +1,5 @@
+/* top matters */
+
 html,body
 {
     width: 100%;
@@ -5,19 +7,67 @@ html,body
     margin: 0px;
     padding: 0px;
     overflow-x: hidden; 
+    background-color: #eaf3fa;
 }
+
+.my-title{
+    color : #9a3466;
+    font-family: bebas-neue, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 1px;
+    margin-left: 5px;
+}
+
+.wrapper {
+    max-width: 680px;
+}
+
+@media only screen and (max-width: 698px) {
+    .wrapper {
+        max-width: 350px;
+    }
+}
+
+
+.home-link {
+    text-transform: uppercase;
+
+    color : #4badc6;
+    font-family: termina, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 11px;
+    letter-spacing: 0px;
+}
+
+.other-link {
+    text-transform: uppercase;
+     color : #9a3466;
+    font-family: termina, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 11px;
+    letter-spacing: 0px;
+}
+
+.site-header {
+    z-index: 1;
+}
+
+
 #main-header {
     position:relative;
-    color: rgb(95, 94, 94);
+   /* color: rgb(95, 94, 94); */
     width: 100%;
-    height: 180px;
+    height: 280px;
     text-align: center;
     vertical-align: middle;
     margin-bottom: 20px;
-    margin-top: 20px;
-    padding-top: 100px;
+    margin-top: 100px;
     margin: 0 auto;
-    z-index: -1;
+    z-index: 0;
+
 }
 
 #main-text-block {
@@ -28,16 +78,46 @@ html,body
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
+    z-index: 1;
     
+}
+
+.purple-text {
+    color: #67329a;
+
+}
+
+.blue-text {
+    color: #4badc6
+
 }
 
 #main-header h1 {
     text-transform: uppercase;
-    font-size: 34px;
+    font-size: 26px;
     margin-bottom: 10px;
     line-height: 40px;
+    text-align: left;
+    font-family: termina, sans-serif;
+    font-weight: 800;
+    line-height: 26px;
+    font-style: normal;
+    
+    /*font-family: 'Helvetica','Roboto', sans-serif;*/
 }
 
+#main-header h3 {
+    font-size: 12px;
+    margin-top: 20px;
+    line-height: 40px;
+    text-align: left;
+    font-family: termina, sans-serif;
+    font-weight: 600;
+    line-height: 16px;
+    font-style: normal;
+
+    /*font-family: 'Helvetica','Roboto', sans-serif;*/
+}
 
 #jumbotron-header {
     position:relative;
@@ -47,7 +127,10 @@ html,body
     vertical-align: middle;
     margin-bottom: 20px;
     margin-top: 60px;
-    z-index: -1;
+    z-index: 0;
+    font-family: Helvetica, sans-serif;
+    font-weight: 400;
+    font-style: normal;
     
 }
     
@@ -57,7 +140,6 @@ html,body
     color: white;
     text-align: center;
     height: 100%;
-    width: 100%;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -71,13 +153,30 @@ html,body
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
+    max-width: 680px;
     
 }
 
 .post-title {
-    font-size: 42px;
-    margin-left: 10px;
-    margin-right: 10px;  
+    font-size: 30px; 
+    text-align: left;
+}
+
+.subtitle {
+    margin-top: 20px;
+    font-size: 18px;
+    text-align: left;
+}
+
+.post-title, .subtitle {
+    max-width: 450px;
+}
+
+@media only screen and (max-width: 698px) {
+    .title-sub-container{
+        max-width: 350px;
+        width: 80%;
+    }
 }
 
 .title-image-container {
@@ -102,19 +201,30 @@ html,body
 }
 
 
-.subtitle {
-    font-size: 22px;
-    margin-left: 10px;
-    margin-right: 10px;
+
+.post-content {
+    text-align: justify;
+    font-family: Helvetica, sans-serif;
 }
+
+.post-content img {
+    text-align: center;
+}
+
+.post-content iframe {
+    width: 100%;
+}
+
+/* INDEX PAGE CSS */
 
 #all-posts {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-between;
+    align-content: flex-start;
     width: 100%;
     margin: 0;
-    min-width: 300px; 
+    min-width: 330px; 
     
 }
 
@@ -126,8 +236,8 @@ html,body
 
 .each-post {
     max-width: 40%;
-    margin: 15px;
-    min-width: 335px; 
+    min-width: 330px; 
+    margin-bottom: 20px;
 
 }
 
@@ -135,7 +245,11 @@ html,body
     position: relative;
     width: 100%;
     overflow: hidden;
-    border-radius: 1.2em;
+    border-radius: 0;
+    text-align: center;
+    margin: 0 auto;
+
+
 }
 
 .index-container {
@@ -151,6 +265,7 @@ html,body
 }
 
   .index-container:hover  {
+    z-index: 1;
     opacity: 1;
     -webkit-transform: scale(1.05) ;
     -webkit-transition: .3s ease-in-out;
@@ -188,28 +303,44 @@ html,body
 
 .post-index-title{
     color: white;
-    font-size: 18px;
+    width: 100%;
+    font-size: 14px;
     position: absolute;
-    padding-right: 15px;
     top: 10px;
-    left: 10px;
-    z-index: 10;
+    z-index: 1;
+    font-family: termina, sans-serif;
+    font-weight: 550;
+    
 }
+
+.post-index-title p {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
 
 
 .post-index-image {
     width: 100%;
     height: 100%;
     margin: 0px;
-    border-radius: 1.2em;
+    border-radius: 0;
     overflow: hidden;
 
 }
 
 .index-date {
-    color: rgb(104, 103, 103);
+    color: rgb(238, 237, 237);
     margin-top: 8px;
+    font-size: 10px;
+    position: absolute;
+    bottom: 0px;
+    right: 5px;
+    display: none;
+
 }
+
 
 .PageNavigation {
     font-size: 14px;
