@@ -212,7 +212,15 @@ html,body
 
 .post-content {
     text-align: justify;
-    font-family: Helvetica, sans-serif;
+    font-family: Termina, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+.content-subtitle {
+    font-size: 16px; 
+    font-weight: 600;
+    font-family: Termina, Helvetica, sans-serif;
+    font-style: normal;
 }
 
 .post-content img {
