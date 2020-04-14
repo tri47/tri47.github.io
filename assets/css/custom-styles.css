@@ -90,8 +90,18 @@ html,body
 
 }
 
+.red-text {
+    color: #9a3466;
+
+}
+
 .blue-text {
     color: #4badc6
+
+}
+
+.very-blue-text {
+    color: #3366cc
 
 }
 
@@ -385,28 +395,3 @@ article {
 }
 
 
-.PageNavigation {
-    font-size: 14px;
-    display: block;
-    width: auto;
-    overflow: hidden;
-    font-family: Termina, Helvetica, sans-serif;
-    font-style: normal;
-  }
-  
-  .PageNavigation a {
-    display: block;
-    width: 50%;
-    float: left;
-    margin: 1em 0;
-  }
-  
-  .PageNavigation .next {
-    text-align: right;
-  }
-
-  .tableauPlaceholder {
-      float: left !important;
-      width: 800px !important;
-      overflow: scroll !important;
-  }
