@@ -4,10 +4,10 @@ layout: default
 
 {%- include post-title.html title = page.title subtitle="" color=page.color -%}
 
-<div class="wrapper" style="width: 90%;">
+<div class="wrapper" style="max-width: 600px;">
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-
+  <div class='sub-article'> 
   <header class="post-header">
     <p class="content-subtitle" style="color: {{page.color}} ; ">{{page.subtitle}}</p>
     <p class="post-meta">
@@ -49,7 +49,7 @@ layout: default
       <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
     {% endif %}
   </div>
-  
+</div>
 </article>
 
 </div>

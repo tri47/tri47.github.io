@@ -20,10 +20,10 @@ html,body
 }
 
 .wrapper {
-    max-width: 680px;
+    max-width: 630px;
 }
 
-@media only screen and (max-width: 698px) {
+@media only screen and (max-width: 660px) {
     .wrapper {
         max-width: 350px;
     }
@@ -156,7 +156,7 @@ html,body
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    max-width: 680px;
+    max-width: 600px;
     
 }
 
@@ -180,11 +180,28 @@ html,body
     max-width: 450px;
 }
 
-@media only screen and (max-width: 698px) {
+@media only screen and (max-width: 660px) {
     .title-sub-container{
         max-width: 350px;
         width: 80%;
     }
+}
+
+@media only screen and (max-width: 660px) {
+    article{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    article{
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+}
+
+article {
 }
 
 .title-image-container {
@@ -210,14 +227,19 @@ html,body
 
 
 
-.post-content {
+.post-content, .post-meta {
     text-align: justify;
-    font-family: Termina, Helvetica, sans-serif;
+    font-family: Montserrat, Gotu , Helvetica, sans-serif;
     font-style: normal;
+    font-size: 18px;
+}
+
+.post-content blockquote {
+    font-size: 16px;
 }
 
 .content-subtitle {
-    font-size: 16px; 
+    font-size: 17px; 
     font-weight: 600;
     font-family: Termina, Helvetica, sans-serif;
     font-style: normal;
@@ -240,7 +262,7 @@ html,body
     align-content: flex-start;
     width: 100%;
     margin: 0;
-    min-width: 330px; 
+    min-width: 310px; 
     
 }
 
@@ -252,8 +274,8 @@ html,body
 
 .each-post {
     max-width: 40%;
-    min-width: 330px; 
-    margin-bottom: 20px;
+    min-width: 310px; 
+    margin-bottom: 10px;
 
 }
 
@@ -320,11 +342,11 @@ html,body
 .post-index-title{
     color: white;
     width: 100%;
-    font-size: 14px;
+    font-size: 15px;
     position: absolute;
     top: 10px;
     z-index: 1;
-    font-family: termina, sans-serif;
+    font-family: Montserrat, termina, sans-serif;
     font-weight: 600;
     
 }
@@ -360,10 +382,12 @@ html,body
 
 
 .PageNavigation {
-    font-size: 14px;
+    font-size: 16px;
     display: block;
     width: auto;
     overflow: hidden;
+    font-family: Termina, Helvetica, sans-serif;
+    font-style: normal;
   }
   
   .PageNavigation a {
@@ -375,4 +399,10 @@ html,body
   
   .PageNavigation .next {
     text-align: right;
+  }
+
+  .tableauPlaceholder {
+      float: left !important;
+      width: 800px !important;
+      overflow: scroll !important;
   }
