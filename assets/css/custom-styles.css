@@ -174,7 +174,7 @@ html,body
     font-size: 30px; 
     text-align: left;
     font-family: termina, sans-serif;
-    font-weight: 500;
+    font-weight: 600;
     line-height: 42px;
     font-style: normal;
 
@@ -208,9 +208,6 @@ html,body
         margin-left: 3%;
         margin-right: 3%;
     }
-}
-
-article {
 }
 
 .title-image-container {
