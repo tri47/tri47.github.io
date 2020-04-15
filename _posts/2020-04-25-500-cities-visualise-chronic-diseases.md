@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Disease and prevention in 500 US cities: an interactive visualisation"
-subtitle: "A study of the relationship between non-communicable diseases, risk factors and preventions in 500 US cities"
+subtitle: "A study of the relationship between chronic diseases, risk factors and preventions in 500 US cities"
 date: 2020-02-10
 image: "500cities.png"
 color: "#663399"
