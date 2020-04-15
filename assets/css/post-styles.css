@@ -18,13 +18,18 @@
   
   .PageNavigation a {
     display: block;
-    width: 50%;
-    float: left;
+    width: 40%;
     margin: 1em 0;
   }
   
   .PageNavigation .next {
     text-align: right;
+    float: right;
+  }
+
+  .PageNavigation .prev {
+    text-align: left;
+    float: left;
   }
 
   .tableauPlaceholder {
