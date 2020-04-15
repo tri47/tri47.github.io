@@ -246,7 +246,6 @@ article {
 .post-content blockquote {
     font-size: 16px;
     max-width: 100%;
-    overflow: scroll;
 }
 
 .content-subtitle {
