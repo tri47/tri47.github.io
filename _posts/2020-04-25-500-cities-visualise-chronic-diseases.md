@@ -20,5 +20,6 @@ The visualisation can be viewed [here](https://public.tableau.com/profile/tri142
 
 ## The poster
 
+[Link to view](/assets/files/500cities.pdf).
 <embed style="width:100%; height:850px" src="/assets/files/500cities.pdf" type="application/pdf" />
 
