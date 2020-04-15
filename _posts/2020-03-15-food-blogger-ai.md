@@ -15,9 +15,9 @@ color: "#89306f"
 ![R2D2](/assets/images/r2d2.png)
 
 ## Intro
-I mentioned in one of my last posts that I was looking at improving customer interactions on Istagram for a restaurant in Melbourne, and was experimenting with writing more engaging daily posts. Naturally, I couldn't help but wonder if I could automate the writing process :)).
+I mentioned in one of my last posts that I was looking at improving customer interactions on Instagram for a restaurant in Melbourne, and was experimenting with writing more engaging daily posts. Naturally, I couldn't help but wonder if I could automate the writing process :)).
 
-As a result, this robot was born. This is my attempt to train OpenAI's GPT-2 language model to write snippets for an (Instagram) food blog. This model made waves earlier last year when OpenAI released it, which was deemed [too dangerous](https://techcrunch.com/2019/02/17/openai-text-generator-dangerous/) for the full version to be released. It subsequently released the full version in Nov 2019, and new applications proliferated. They included models that create poems, and D&D dialogues.
+As a result, this robot was born. This is my attempt to train OpenAI's GPT-2 language model to write snippets for an (Instagram) food blog. This model made waves earlier last year when OpenAI released it, which was deemed [too dangerous](https://techcrunch.com/2019/02/17/openai-text-generator-dangerous/) for the full version to be released. It subsequently released the full version in Nov 2019, and new applications proliferated. They included models that create poems or D&D dialogues.
 
 ## The training data
 I repurposed the code I used to scrape an Instagram profile page to extract sample food blog posts from Instagram as raw data. I ended up with about 15,000 lines of text to feed the model.
@@ -26,7 +26,7 @@ I repurposed the code I used to scrape an Instagram profile page to extract samp
 I wrote more about how to train and deploy the model in the [Github repo](https://github.com/tri47/food-blog-AI-writer). It's not super polished as it was more for my reference and experiments.
 
 ## Deploying to production
-To deploy the model to production, I used [Cortex](https://github.com/cortexlabs/cortex), an open source machine learning deployment platform to deploy the trained model to AWS Lambda as an API web service.
+To deploy the model to production, I used [Cortex](https://github.com/cortexlabs/cortex), an open-source machine learning deployment platform to deploy the trained model to AWS Lambda as an API web service.
 
 ## Sample output
 ### Without prompts

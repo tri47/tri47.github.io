@@ -6,11 +6,11 @@ date: 2020-03-05
 image: "instagram.png"
 color: "#3366cc"
 ---
-Instagram has become an important platform for restaurants and cafes to run advertisements and connect with their patrons. I was working on improving customer interactions on Instagram for a restaurant in Melbourne. Naturally, I wanted to analyse past performance somehow. Unforetunately, I couldn't find a (free) way to extract the information easily, so I resorted to web scraping.
+Instagram has become an important platform for restaurants and cafes to run advertisements and connect with their patrons. I was working on improving customer interactions on Instagram for a restaurant in Melbourne. Naturally, I wanted to analyse past performance somehow. Unfortunately, I couldn't find a (free) way to extract the information easily, so I resorted to web scraping.
 
 I deployed the script as a microservice on AWS Lambda to send a regular report by email to me. The code can be found [here](https://github.com/tri47/instaScraper).
 
-This post is to explain how to find the information required to run the code, as a lot of the tutorials on the web are outdated due to recent Instagram's updates.
+This post is to explain how to find the information required to run the code, as a lot of the tutorials on the web are outdated due to recent Instagram updates.
 
 ## Can't I just scrape the page source?
 You can. The problem is the infinite scroll feature.
@@ -24,9 +24,9 @@ The following steps will help us get around that.
 ## Getting all those ID's! 
 Instagram uses graphQL API for profile pages. The following does not apply to a hashtag page as it uses a different query structure.
 
-To get the query structure, open a public profile page (I use Firefox). Right click and select Inspect.
+To get the query structure, open a public profile page (I use Firefox). Right-click and select Inspect.
 
-Next, select Network, you will find a list of queries that were sent to the Istagram's server. Scroll on the profile page to retrieve the next 12 posts while keeping the Network window open.
+Next, select Network, you will find a list of queries that were sent to the Instagram's server. Scroll on the profile page to retrieve the next 12 posts while keeping the Network window open.
 
 ![screenshot](/assets/images/scrape1.png)
 
@@ -34,7 +34,7 @@ You should see a new GET query now. Click on that to open a new window.
 
 ![screenshot](/assets/images/scrape2.png)
 
-Click on XHR, and copy the "Request URL". If you paste this to your browser, you will receive the raw respond from Instagram, you can explore the JSON structure here to identify where the data you want sit.
+Click on XHR, and copy the "Request URL". If you paste this to your browser, you will receive the raw response from Instagram, you can explore the JSON structure here to identify where the data you want is stored.
 
 Let's inspect the query string.
 
@@ -44,7 +44,7 @@ Let's inspect the query string.
 
 I shortened the random strings a bit to make it more digestible. There are a few important parameters here:
 
-1. query_hash (d496eb...): for an explaination, read [here](https://stackoverflow.com/questions/54238696/what-is-query-hash-in-instagram). Make note of it as one of our inputs.
+1. query_hash (d496eb...): for an explanation, read [here](https://stackoverflow.com/questions/54238696/what-is-query-hash-in-instagram). Make note of it as one of our inputs.
 2. id (25025320): a unique identifier for the profile page you're querying.
 3. first: the number of posts to retrieve next, default to 12.
 4. after: an identifier for the last post in the previous query, i.e. post number 12 when you first open the profile page. It tells Instagram to find the next posts after that post ID.
@@ -53,10 +53,10 @@ Those are all the elements you need to provide the [Python script](https://githu
 
 This helped me get all the data to analyse patterns in user interactions, useful hashtags, etc.
 
-## End notes
+## Endnotes
 I am yet to look at the API provided by Instagram for developers. I am guessing it will make things easier. It's a bit of a shame that we have to jump through all these hoops to get the data that should be readily available for users who created those in the first place.
 
-It shows how crucial the control of data is, as there is so much insights and values you can derive from it.
+It shows how crucial the control of data is, as there are many insights and values you can derive from it.
 
 ![](/assets/images/vienna_meal.jpg)
 
