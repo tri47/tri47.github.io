@@ -12,8 +12,6 @@ This is a team project that I did as part of my master at Georgia Tech.
 
 We analysed the data from CDC's [500 Cities project](https://www.cdc.gov/500cities/index.htm) which provides census-track level estimates of diseases' prevalence, risk factors such as drinking, lack of excercise etc. and preventions. The project involves processing and analysis those relationships at different geometric levels (city, state, country-wide).
 
-My main role in the project was the visualisation in Tableau and poster design.
-
 ## The analysis
 We used Scikit-learn to do the majority of the analysis. We ended up with 5 most relevant factors for each disease, which we then visualise it Tableau.
 
