@@ -254,6 +254,7 @@ html,body
 
 .post-content img {
     text-align: center;
+    padding: auto;
 }
 
 .post-content iframe {
