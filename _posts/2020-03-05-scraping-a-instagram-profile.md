@@ -35,8 +35,8 @@ Click on XHR, and copy the request URL. If you paste this to your browser, you w
 Let's inspect the query string itself.
 
 > https://www.instagram.com/graphql/query/?query_hash=d496eb541e5c7892ezcaee&  
->variables={"id":"25025320","first":12,  
->"after":"QVFFUMmlKZDla0VaOHhEZ1VreUJKNmpJNA=="}
+>variables={"id":"25025320","first":12,
+"after":"QVFFUMmlKZDla0VaOHhEZ1VreUJKNmpJNA=="}
 
 I took the liberty to shorten the random strings a bit to make it more digestible. There are three important parameters here:
 
