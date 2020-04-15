@@ -58,7 +58,7 @@ I am yet to look at the API provided by Instagram for developers. I am guessing 
 
 It shows how crucial the control of data is, as there is so much insights and values you can derive from it.
 
-![pancake](/assets/images/vienna_meal.jpg)
+![](/assets/images/vienna_meal.jpg)
 
  <p class= 'image-caption'>A meal on a hiking trip in Puchberg am Schneeberg, Austria. </p>
 
