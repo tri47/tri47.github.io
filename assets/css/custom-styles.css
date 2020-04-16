@@ -10,6 +10,10 @@ html,body
     background-color: #eaf3fa;
 }
 
+.page-content, whole-post {
+    background-color: #eaf3fa;
+
+}
 .my-title{
     color : #9a3466;
     font-family: bebas-neue, sans-serif;

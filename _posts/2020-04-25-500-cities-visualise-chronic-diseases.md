@@ -8,6 +8,8 @@ color: "#663399"
 htmlwidgets: TRUE
 ---
 
+![](/assets/images/500cities_screenshot.png)
+
 This is a team project that I did as part of my master at Georgia Tech.
 
 We analysed the data from CDC's [500 Cities project](https://www.cdc.gov/500cities/index.htm) which provides census-track level estimates of diseases' prevalence, risk factors such as drinking, lack of excercise etc. and preventions. The project involves processing and analysis those relationships at different geometric levels (city, state, country-wide).
