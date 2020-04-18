@@ -3,7 +3,7 @@ layout: post
 title: "Christopher Nolan filmography:<br>a visualisation"
 subtitle: "Visualising 20 years of cinematic genius"
 date: 2020-04-18
-image: "nolan.png"
+image: "nolan2.png"
 color: "#4cadc7"
 htmlwidgets: TRUE
 ---
