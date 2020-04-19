@@ -18,7 +18,7 @@ We analysed the data from CDC's [500 Cities project](https://www.cdc.gov/500citi
 We used Scikit-learn to do the majority of the analysis. We ended up with 5 most relevant factors for each disease, which we then visualise it Tableau.
 
 ## The visualisation
-The visualisation can be viewed [here](https://public.tableau.com/profile/tri1422#!/vizhome/VizExamples2019_1_2_15543742823730/Story). For tbe best result, view this on a large screen.
+The visualisation can be viewed [here](https://public.tableau.com/profile/tri1422#!/vizhome/VizExamples2019_1_2_15543742823730/Story). For the best result, view this on a large screen.
 
 ## The poster
 
