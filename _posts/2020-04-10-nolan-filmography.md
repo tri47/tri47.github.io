@@ -83,5 +83,6 @@ This is an exciting time for Nolan fans, as his latest film is due soon, and Mem
 
 This was an interesting journey to look at Nolan's cinematic achievements of the last 20 years. Hopefully I will be able to do the same for my other two favorite directors: David Fincher and Wes Anderson.
 
-### Data
-The data in this article was taken from IMDB. The cast list was sourced from the credited cast list for each film on IMDB.
+### How this was made
+The data in this article was sourced from IMDB. The cast list was sourced from the credited cast list for each film on IMDB.  
+The charts were created using Plotly in Python.
