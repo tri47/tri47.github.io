@@ -11,7 +11,7 @@ htmlwidgets: TRUE
 
 >  "We've always defined ourselves by the ability to overcome the impossible. And we count these moments. These moments when we dare to aim higher, to break barriers, to reach for the stars, to make the unknown known." - Interstellar
 
-Christopher Nolan is considered one of the most celebrated and innovative directors right now with a cult following. Nolan's career breakthrough was with Memento in 2000, after which he continues to impress the world with expertly crafted instant classics. His latest film (Tenet) is coming out this year. 
+Christopher Nolan is considered one of the most celebrated and innovative directors right now with a cult following. Nolan's career breakthrough was with the neo-noir thriller Memento in 2000, after which he continues to impress the world with expertly crafted instant classics. His latest film (Tenet) is coming out this year. 
 
 While we are waiting, let's have a look at his admirable achievements over the past 20 years.
 <br/> 
