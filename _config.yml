@@ -1,5 +1,5 @@
 markdown: kramdown
-description: Making sense of an entangled world
+description: Making sense of a fast-evolving world
 title: Tri Nguyen
 url: "http://tri47.github.io/"
 exclude: [README.md, .gitignore, Gemfile, Gemfile.lock]
