@@ -14,7 +14,7 @@ I came across [this dataset](https://github.com/CSSEGISandData/COVID-19) maintai
 
 There were certainly questionable decisions, e.g., incoming flights from Italy were only banned after the Grand Prix was canceled, despite the number of cases in Italy already exceeded 11,000 then. Travelers from Italy were banned after South Korea and Iran, which only had 4,300 and 1,000 cases respectively at the time they were banned. 
 
-It was also interesting that an economic stimulus package was announced  in mid February, one month before those by the US and UK, and also before any significant border restrictions were enacted. Some suggest that the government had a better foresight of the economic downturn than our Western counterparts.
+It was also interesting that an economic stimulus package was announced in mid February, one month before those by the US and UK, and also before any significant border restrictions were enacted. Some suggest that the government had a better foresight of the economic downturn than our Western counterparts.
 
 Link to the visualisation [here](https://public.tableau.com/profile/tri1422#!/vizhome/CoVtrends/CoV-19-story?publish=yes) if unable to view below.
 

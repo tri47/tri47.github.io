@@ -28,7 +28,7 @@ I wrote more about how to train and deploy the model in my [Github repo](https:/
 ## Deploying to production
 To deploy the model to production, I used [Cortex](https://github.com/cortexlabs/cortex), an open-source machine learning deployment platform to deploy the trained model to AWS Lambda as an API web service. This gives me the flexibility of wrapping it around a web app later if I so desire.
 
-## Sample output
+## The results
 ### Without prompts
 
 > The combination of grilled beef and lime, fresh lime slaw, mustard seeds, zucchini flowers, fresh lime, guacamole, leek and kim chi soft serve. Perfect epic meal #meturbalpourri #tcbd #sydneybars #sydneyeats #brewedchampagne #sydneyfood #sausageroll #menwithcuisines #sydneyfoodblogger #sydneyfoodblog #petecbarracuda
@@ -51,7 +51,7 @@ My favorite fried chicken sandwich from the @sydneyburgercollectiveau is finally
 
 The "burger" prompt makes the AI think "fried chicken"! This is largely because the training data does not come with a 'header' like 'vegan chicken burger' followed by a review/description of the dish. Therefore, the model does not complete the rest of the prompt very well. This is a recurring theme I have encountered during my journey learning Data Science. Most of the time the hardest part is sourcing required training data in the right format. Unsurprisingly, data is rightly considered the new oil by many corporations.
 
-### Results
+### Endnotes
 The model performs pretty well. I like how it can pick up the tone and vocabulary from the training data with ease. It also picks up on how to write relevant hashtags. It is by no means a replacement for a human writer, but it has the potential to be a powerful virtual assistant who can help provide the starter lines/prompts when a writer is stuck. It will make an excellent prompt generator for writing practice.
 
 The future is bright, right?
