@@ -238,7 +238,7 @@ html,body
 
 
 .post-content, .post-meta {
-    text-align: justify;
+    text-align: left;
     font-family: Montserrat, Gotu , Helvetica, sans-serif;
     font-style: normal;
     font-size: 18px;
