@@ -6,7 +6,9 @@ date: 2020-03-05
 image: "instagram.png"
 color: "#3366cc"
 ---
-Instagram has become an important platform for restaurants and cafes to run advertisements and connect with their patrons. I was working on improving customer interactions on Instagram for a restaurant in Melbourne. Naturally, I wanted to analyse past performance somehow. Unfortunately, I couldn't find a (free) way to extract the information easily, so I resorted to web scraping.
+![](/assets/images/pancake1.png)
+<br/> <br/>
+Instagram has become an important platform for restaurants and cafes to run advertisements and connect with their patrons. I was working on improving customer interactions on Instagram for a restaurant in Melbourne. Naturally, I wanted to analyse past performance. Unfortunately, I couldn't find a (free) way to extract the information easily, so I resorted to web scraping.
 
 I deployed the script as a microservice on AWS Lambda to send a regular report by email to me. The code can be found [here](https://github.com/tri47/instaScraper).
 
@@ -54,9 +56,7 @@ Those are all the elements you need to provide the [Python script](https://githu
 This helped me get all the data to analyse patterns in user interactions, useful hashtags, etc.
 
 ## Endnotes
-I am yet to look at the API provided by Instagram for developers. I am guessing it will make things easier. It's a bit of a shame that we have to jump through all these hoops to get the data that should be readily available for users who created those in the first place.
-
-It shows how crucial the control of data is, as there are many insights and values you can derive from it.
+I am yet to look at the API provided by Instagram for developers. I am guessing it will make things easier. It's a bit of a shame that we have to jump through all these hoops to get the data that should be readily available for users who created those in the first place. There are a lot of debates going on about the right to our data, and it undoubtedly will become a very crucial decision for us to make as a society.
 
 ![](/assets/images/vienna_meal.jpg)
 

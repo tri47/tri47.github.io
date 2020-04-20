@@ -10,7 +10,7 @@ color: "#663399"
 
 During the early phase of the Covid-19 outbreak, the media focused mostly on the number of new cases and deaths, and not much on recovery. It prompted me to go digging to understand the severity of the pandemic.
 
-I came across [this dataset](https://github.com/CSSEGISandData/COVID-19) maintained by Johns Hopkins University. I was able to produce a visualisation of this information in Tableau, with a focus on the reactions by the Australian government during this early phase of the pandemic. 
+I came across [this dataset](https://github.com/CSSEGISandData/COVID-19) maintained by Johns Hopkins University. I was able to produce a [visualisation](https://public.tableau.com/profile/tri1422#!/vizhome/CoVtrends/CoV-19-story?publish=yes) of this information in Tableau, with a focus on the reactions by the Australian government during this early phase of the pandemic. 
 
 There were certainly questionable decisions, e.g., incoming flights from Italy were only banned after the Grand Prix was canceled, despite the number of cases in Italy already exceeded 11,000 then. Travelers from Italy were banned after South Korea and Iran, which only had 4,300 and 1,000 cases respectively at the time they were banned. 
 
