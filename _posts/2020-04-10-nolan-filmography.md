@@ -83,7 +83,7 @@ There are some other interesting facts. Quite a few "Nolans" from his extended f
 For sure, many will be hoping for the big stars like Morgan Freeman, Leonardo DiCaprio, Anne Hathaway, Liam Neeson to make more appearances. 
 
 ### Outro
-This is an exciting time for Nolan fans and any admirers of the art of film-making, as Nolan's latest feature is due soon, and Memento has received a green light for a remake. How they intend to outdo that masterpiece of well-paced revelations of mysteries is beyond me. 
+This is an exciting time for Nolan fans and any admirers of the art of film-making, as Nolan's latest feature is due soon, and Memento has received a green light for a remake. How they intend to outdo that masterpiece of well-paced revelations and captivating mysteries is beyond me. 
 
 <p style="text-align: center;  font-weight: bold; font-size:22px"> "Murphy's law doesn't mean that something bad will happen. What it means is whatever can happen, will happen."
 </p>
