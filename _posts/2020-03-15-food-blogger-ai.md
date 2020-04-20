@@ -20,7 +20,7 @@ I mentioned in one of my last posts that I was looking at improving customer int
 As a result, this robot was born. This is my attempt to train OpenAI's GPT-2 language model to write snippets for an (Instagram) food blog. This model made waves earlier last year when OpenAI released it, but held back on the full version because it was deemed too [humanlike and dangerous](https://techcrunch.com/2019/02/17/openai-text-generator-dangerous/). OpenAI subsequently released the full version in Nov 2019, and new applications proliferated. They included models that create poems or D&D dialogues.
 
 ## The training data
-I needed to provide the model with a lot of samples from actual food blogs so that it can learn the tone, jargons, and structure of a social media post on foods and dining. I repurposed the code I used to scrape an Instagram profile page to extract sample posts as training data. I ended up with about 15,000 lines of text to feed the model.
+I needed to provide the model with a lot of samples from actual food blogs so that it can learn the tone, jargons, and structure of a social media post on foods and dining. I repurposed the code I used to scrape an Instagram profile page to extract sample posts. I ended up with about 15,000 lines of text to feed the model.
 
 ## Training the model
 I wrote more about how to train and deploy the model in my [Github repo](https://github.com/tri47/food-blog-AI-writer). It's not super polished as it was more for my reference and experiments.
