@@ -11,6 +11,8 @@ htmlwidgets: TRUE
 
 In this post, I analyse Goodreads's [Goodbooks-10k dataset](https://github.com/zygmuntz/goodbooks-10k). It contains 6 million user ratings for 10,000 most popular books on Goodreads. I did the majority of the analysis with [Spark](https://spark.apache.org/) on Amazon's [EMR](https://aws.amazon.com/emr/). The visualisation was done in [Plotly](https://plotly.com/).
 
+[Github repo](https://github.com/tri47/goodreads_10k_books).
+
 ### Most popular books
 
 The most popular books (highest count of ratings) is shown below. The Hunger Games take the crown, followed by Harry Potter. In the top 10, Pride and Prejudice is the oldest book, published more than 100 years before any of the others.
