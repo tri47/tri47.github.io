@@ -17,7 +17,7 @@ Christopher Nolan is one of the most prolific and innovative modern directors. H
 While we are waiting, let's have a look at his admirable achievements over the past 20 years.
 <br/> 
 <br/>
-<p style="text-align: left;  font-weight: bold; font-size:22px"> "If you're good at something, never do it for free"
+<p style="text-align: left;  font-weight: bold; font-size:20px"> "If you're good at something, never do it for free"
 </p>
 The Dark Knight Rises was the most highly grossed film, with a comparable huge budget, despite sitting squarely in the middle of the pack in IMDB Score. The Prestige had a modest budget of $40 million compared to its brothers, but it still received a very positive rating. 
 
@@ -40,7 +40,7 @@ Looking closer at the profit, Nolan only starts to make blockbusters consistentl
 
 
 <br/>
-<p style="text-align: left;  font-weight: bold; font-size:22px"> "That's why every magic trick has a third act, the hardest part, the part we call The Prestige"
+<p style="text-align: left;  font-weight: bold; font-size:20px"> "That's why every magic trick has a third act, the hardest part, the part we call The Prestige"
 </p>
 
 Nolan's films have received 10 Academy Awards and more than thrice as many nominations. With the exception of Heath Ledger receiving an award for performance, most of the nominations and awards are in editting, music and cinematography (hover on the chart to see categories).
@@ -56,7 +56,7 @@ I love the music from Interstellar, and I am sure one of these days Hans Zimmer 
 ![](/assets/images/nolan_collabs.png)
 
 <br/>
-<p style="text-align: left;  font-weight: bold; font-size:22px"> "I’m not afraid of death. I’m an old physicist. <br/>
+<p style="text-align: left;  font-weight: bold; font-size:20px"> "I’m not afraid of death. I’m an old physicist. <br/>
 I’m afraid of time."
 </p>
 
@@ -70,7 +70,7 @@ On the other side of the coin, The Dark Knight Rises might have received a more 
 </div>
 
 <br/>
-<p style="text-align: left;  font-weight: bold; font-size:22px"> "Because making something disappear isn't enough; you have to bring it back."
+<p style="text-align: left;  font-weight: bold; font-size:20px"> "Because making something disappear isn't enough; you have to bring it back."
 </p>
 
 Many actors and actresses reappear constantly in Nolan's films as shown below. And the winner (\*drum roll\*) is Michael Caine! He was Alfred in the three Batmans, John Cutter in the Prestige, Stephen Miles in Inception, and Professor Brand in Interstellar.
@@ -87,7 +87,7 @@ For sure, many will be hoping for the big stars like Morgan Freeman, Leonardo Di
 ### Outro
 This is an exciting time for Nolan fans and any admirers of the art of film-making, as Nolan's latest feature is due soon, and Memento has received a green light for a remake. How they intend to outdo that masterpiece of well-paced revelations and captivating mysteries is beyond me. 
 
-<p style="text-align: left;  font-weight: bold; font-size:22px"> "Murphy's law doesn't mean that something bad will happen. What it means is whatever can happen, will happen."
+<p style="text-align: left;  font-weight: bold; font-size:20px"> "Murphy's law doesn't mean that something bad will happen. What it means is whatever can happen, will happen."
 </p>
 
 
