@@ -20,23 +20,7 @@ The most popular books (highest count of ratings) is shown below. The Hunger Gam
     <script data-plotly="tri.qu.nguyen:82" sharekey-plotly="yZ8nirN13Feeihe73Yp4hN" src="https://plotly.com/embed.js" async></script>
 </div>
 
-The next 10 books are below. The Harry Potter and the Hunger Games series dominate this list.
-
-
-<ul style='font-size:16px'>
-<li> The Diary of a Young Girl, Anne Frank </li>
-<li> The Girl with the Dragon Tattoo, Stieg Larsson </li>
-<li> Catching Fire, Suzanne Collins </li>
-<li> Harry Potter and the Prisoner of Azkaban, J.K. Rowling </li>
-<li> The Fellowship of the Ring, J.R.R. Tolkien </li>
-<li> Mockingjay, Suzanne Collins</li>
-<li> Harry Potter and the Order of the Phoenix, J.K. Rowling</li>
-<li> The Lovely Bones, Alice Sebold</li>
-<li> Harry Potter and the Chamber of Secrets, J.K. Rowling</li>
-<li> Harry Potter and the Goblet of Fire, J.K. Rowling</li>
-</ul>
-
-
+<br>
 ### Most unfinished
 
 Sometimes, we don't achieve all we set out to. The dataset also contains tags users have assigned to their books. Here, we look at books that have been given tags such as "unfinished", "just-cant-do-it", "half-finished" by Goodreads users.
@@ -57,7 +41,6 @@ Sometimes, we don't achieve all we set out to. The dataset also contains tags us
 <li>10. George Orwell, 1984</li>
 </ul>
 
-I was more expecting War and Peace, Moby Dick and Ulysses. I suppose the aforementioned three already look like unfathomable tomes, which instantly kill any illusion that you might be able to finish them. On the other hand, Catch-22 and Lolita are not that thick, and as a result, are more deceiving about their mental digestibility.
 
 ### Most controversial
 
@@ -69,38 +52,39 @@ These are the books that have the highest variance in their ratings. I.e., peopl
 </div>
 
 <br>
-Basically, religious texts, Twilight, and Fifty Shade of Grey are the most polarising books. WHo would have guessed?
+Basically, religious texts, Twilight, and Fifty Shade of Grey are the most polarising books. WHO would have guessed?
 
 ### The book network 
 
-The most fun I had with this dataset was to turn it into a graph problem. By studying the relationship between books via the readers' preference, we can identify relationships that may not be obvious.
+The most fun I had with this dataset was to turn it into a graph problem. Studying the relationship between books via the readers' preference, we can identify relationships that may not be obvious.
 
 In the graph below, books are linked if they share more than 2000 unique readers who gave them a 5-star rating. You can hover on the circles to see the titles.
 
 
-In the centre are 7 dark green circles - the 7 Harry Potter books. This center also houses To Kill a Mockingbird and The Hunger Games. Let's call this the Mainstream Sphere, the Popular Clique, the Best-selling Black Hole, the Translated-to-2000-Languages Gang, or whatever you prefer.
+In the centre are 7 dark green circles - the 7 Harry Potter books, along with To Kill a Mockingbird and The Hunger Games. Let's call this the Mainstream Centre.
 
 <div>
     <a onclick="return false" href="https://plotly.com/~tri.qu.nguyen/90/?share_key=GqVuJ9leYBDR55qUsX7aIM" target="_blank" title="graph_top_books" style="display: block; text-align: center;"><img src="https://plotly.com/~tri.qu.nguyen/90.png?share_key=GqVuJ9leYBDR55qUsX7aIM" alt="graph_top_books" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
     <script data-plotly="tri.qu.nguyen:90" sharekey-plotly="GqVuJ9leYBDR55qUsX7aIM" src="https://plotly.com/embed.js" async></script>
 </div>
 <br>
-On the bottom left side, you find the A Song of Ice and Fire series. It connects back to the center via the first book - A Game of Thrones. At the top, you see a similar pattern. The Tolkienian works are clustered together and connect to the Mainstream Center via The Hobbit and the first The Lord of The Rings book. In graph theory, these nodes are known as gatekeepers, since they establish the gateway between different groups.
+On the bottom left side, you find the notorious Game of Thrones (A Song of Ice and Fire) series. It connects back to the center via the first book in the series- A Game of Thrones. At the top, the Tolkienian works are also clustered together and linked to the Mainstream Center via The Hobbit. In graph theory, these nodes are known as gatekeepers, since they establish the gateway between different groups.
 
-On the right side, Georgie Orwell's dystopian classics Animal Farm and 1984 stand in solitude. We also see that Pride and Prejudice is more "mainstream" than Jane Eyre. Fans of The Hunger Games are also more likely to enjoy Twilight than fans of Harry Potter.
+On the right side, Georgie Orwell's dystopian classics Animal Farm and 1984 stand in solitude. We also see that Pride and Prejudice is more "mainstream" than Jane Eyre.
 
-We now have a very interpretable book recommendation system. E.g., for a fan of The Hunger Games who wants to find something more serious to read, we can recommend To Kill a Mocking Bird and subsequently The Kite Runner. We can also help readers get out of their comfort zone by skipping a few intermediate nodes.
+This can be used as a recommendation system by looking at what are linked to someone' favorite books. We can also help readers get out of their comfort zone by skipping a few intermediate nodes.
 
-The clustering extend beyond grouping works by authors. To see how, let add more titles, reduce the threshold to form book connection, and zoom on two particular books as below.
+Let's add more titles, reduce the threshold to form a connection, and zoom on two particular books as below.
 
 <div>
     <a onclick="return false" href="https://plotly.com/~tri.qu.nguyen/94/?share_key=8UcvsWxKG628cCfwJuxRjH" target="_blank" title="graph_top_books2" style="display: block; text-align: center;"><img src="https://plotly.com/~tri.qu.nguyen/94.png?share_key=8UcvsWxKG628cCfwJuxRjH" alt="graph_top_books2" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
     <script data-plotly="tri.qu.nguyen:94" sharekey-plotly="8UcvsWxKG628cCfwJuxRjH" src="https://plotly.com/embed.js" async></script>
 </div>
+<br>
 
-To Kill a Mockingbird is the starting point of the more involved literature. It connects the Mainstream Center to Shakespeare, John Steinback and Mark Twain. I.e, To Kill a Mockingbird is the metaphorical gateway drug to books that explore and depict the human conditions and destinies in the universe.
+To Kill a Mockingbird is the center of more "deep" books. It connects the Mainstream Center to Shakespeare, John Steinback etc.. In other words, To Kill a Mockingbird is the gateway drug to serious literature.
 
-1984 is also near the centre, and it forms a particular link with Fahrenheit 451. We know that both stories deal with a protagonist who lives and fights back in a dystopian world with a dictatorial government, hence the connection. However, 1984 is a lot more well-known and therefore closer to the Mainstream.
+1984 is also near the centre, and it forms a particular link with Fahrenheit 451. We know that both stories deal with a protagonist who lives and fights back in a dystopian world with a dictatorial government, hence the connection.
 
 Without knowledge of the genres or authors of the books, simply by using the preference of readers, we were able to cluster books into groups of similar themes and genres.
 
