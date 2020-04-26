@@ -12,7 +12,7 @@ htmlwidgets: TRUE
 ![](/assets/images/nolanposters.jpeg)
 >  "We've always defined ourselves by the ability to overcome the impossible. And we count these moments. These moments when we dare to aim higher, to break barriers, to reach for the stars, to make the unknown known." - Interstellar
 
-Christopher Nolan is one of the most prolific and innovative modern directors with a unique style and intriguing story-telling. Nolan's career breakthrough was with the neo-noir thriller Memento in 2000, after which he continues to impress the world with expertly crafted instant classics. His latest film (Tenet) is coming out this year. 
+Christopher Nolan is one of the most prolific and innovative modern directors. He is renowned for his unique style and intriguing story-telling. Nolan's career breakthrough was with the neo-noir thriller Memento in 2000, after which he continues to impress the world with expertly crafted instant classics. His latest film (Tenet) is coming out this year. 
 
 While we are waiting, let's have a look at his admirable achievements over the past 20 years.
 <br/> 
