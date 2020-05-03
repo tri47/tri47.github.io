@@ -51,7 +51,7 @@ Nolan's films have received 10 Academy Awards and more than thrice as many nomin
 <br/>
 This brings us to Nolan's most important collaborations. Nolan works with only a handful of composers, cinematographers and editors. Wally Pfister, for instance, has worked on 7 out of 10 of Nolan's films, received 4 nominations and won 1 oscar for cinematography.
 
-I love the music from Interstellar, and I am sure one of these days Hans Zimmer will receive an Academy Award in recognition of his wonderful works.  
+Hans Zimmer also composed the score for The Lion King (and won an Oscar) and Pirates of the Caribbean series.
 <br/>
 ![](/assets/images/nolan_collabs.png)
 
