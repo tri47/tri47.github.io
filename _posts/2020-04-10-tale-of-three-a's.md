@@ -9,7 +9,7 @@ htmlwidgets: TRUE
 ---
 **\*NOTE: This post contains interactive charts which are best viewed on a large screen.**
 
-This post was originally an [ipython notebook](https://github.com/tri47/ASX_vs_Metals/blob/master/analysis.ipynb) I created to explore the relative movement of ASX stocks (using ASX 200 index) vs Gold (Au) and silver (Ag) over the last 30 years. Data was collated from:
+This post was originally an [ipython notebook](https://github.com/tri47/ASX_vs_Metals/blob/master/analysis.ipynb) I created to explore the relative movement of ASX stocks (using ASX 200 index) vs Gold and silver over the last 30 years. Data was collated from:
 - Exchange rate: rba.gov.au
 - ASX, Gold and Silver price: marketindex.com.au  
 - Recent Gold and Silver price: LBMA.org.uk  

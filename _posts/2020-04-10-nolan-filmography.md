@@ -12,14 +12,16 @@ htmlwidgets: TRUE
 ![](/assets/images/nolanposters.jpeg)
 >  "We've always defined ourselves by the ability to overcome the impossible. And we count these moments. These moments when we dare to aim higher, to break barriers, to reach for the stars, to make the unknown known." - Interstellar
 
-Christopher Nolan is one of the most prolific and innovative modern directors. He is renowned for his unique style and intriguing story-telling. Nolan's career breakthrough was with the neo-noir thriller Memento in 2000, after which he continues to impress the world with expertly crafted instant classics. His latest film (Tenet) is coming out this year. 
+22 years ago, Christopher Nolan directed his first film Following with a $6,000 dollar budget. Today, his most highly grossed movie The Dark Knight Rises have made more than 1 billion worldwide. His works have received 10 Academy Awards and many more nominations.
 
-While we are waiting, let's have a look at his admirable achievements over the past 20 years.
+Christopher Nolan is one of the most prolific and innovative modern directors of our time. His career breakthrough was with the neo-noir thriller Memento in 2000, after which he continues to impress the world with expertly crafted instant classics. His latest film (Tenet) is coming out this year. 
+
+While we are waiting, let's have a look at his achievements over the past 20 years.
 <br/> 
 <br/>
 <p style="text-align: left;  font-weight: bold; font-size:20px"> "If you're good at something, never do it for free"
 </p>
-The Dark Knight Rises was the most highly grossed film, with a comparable huge budget, despite sitting squarely in the middle of the pack in IMDB Score. The Prestige had a modest budget of $40 million compared to its brothers, but it still received a very positive rating. 
+The graph below shows the budget, earnings and IMDB rating of Nolan's films. The Dark Knight Rises was the most highly grossed film, with a comparable huge budget, despite sitting squarely in the middle of the pack in IMDB Score. The Prestige had a modest budget of $40 million compared to its brothers, but it still received a very positive rating. 
 
 Dunkirk is no doubt the most polarising film among Nolan's fans, only considered better than Nolan's widely deemed worst films (Insomnia and Following). 
 
@@ -53,6 +55,8 @@ This brings us to Nolan's most important collaborations. Nolan works with only a
 
 Hans Zimmer also composed the score for The Lion King (and won an Oscar) and Pirates of the Caribbean series.
 <br/>
+<br/>
+
 ![](/assets/images/nolan_collabs.png)
 
 <br/>
@@ -61,7 +65,7 @@ I’m afraid of time."
 </p>
 
 Nolan's films are typically very long (in a good way). Here, we can see exactly how long. For maximum Nolanian goodness, look no further than Interstellar with more than two and a half hours of masterful storytelling and awe-inspiring visuals.  
-On the other side of the coin, The Dark Knight Rises might have received a more positive response had it been a tad shorter.
+The Dark Knight Rises might have received a more positive response had it been a tad shorter.
 <br/>
 
 <div>
@@ -80,16 +84,15 @@ Many actors and actresses reappear constantly in Nolan's films as shown below. A
 
 ![](/assets/images/nolan_casts.png)
 
-There are some other interesting facts. Quite a few "Nolans" from his extended family reappear in several films. I completely missed how often Tom Hardy (Mad Max) was cast in Nolan's films. And if you're like me and be like "who the hell is Russ Fega", look him up. Ahhh, the resulting facts from data extraction and compilation never cease to astound. 
+Quite a few "Nolans" from his extended family reappear in several films. I completely missed how often Tom Hardy (Mad Max) was cast in Nolan's films. And if you're like me and be like "who the hell is Russ Fega", look him up. Ahhh, the resulting facts from data extraction and compilation never cease to astound. 
 
 For sure, many will be hoping for the big stars like Morgan Freeman, Leonardo DiCaprio, Anne Hathaway, Liam Neeson to make more appearances. 
 
 ### Outro
-This is an exciting time for Nolan fans and any admirers of the art of film-making, as Nolan's latest feature is due soon, and Memento has received a green light for a remake. How they intend to outdo that masterpiece of well-paced revelations and captivating mysteries is beyond me. 
+This is an exciting time for Nolan fans and any admirers of the art of film-making, as Nolan's latest feature is due soon, and Memento has received a green light for a remake!
 
 <p style="text-align: left;  font-weight: bold; font-size:20px"> "Murphy's law doesn't mean that something bad will happen. What it means is whatever can happen, will happen."
 </p>
-
 
 I thoroughly enjoyed this journey to look at Nolan's cinematic achievements. Hopefully, I will be able to do the same for my other two favourite directors: David Fincher and Wes Anderson.
 
