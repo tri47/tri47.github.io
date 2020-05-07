@@ -19,7 +19,7 @@ html,body
     font-family: bebas-neue, sans-serif;
     font-weight: 400;
     font-style: normal;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     margin-left: 5px;
 }
 
@@ -38,23 +38,21 @@ html,body
     text-transform: uppercase;
 
     color : #4badc6;
-    font-family: termina, sans-serif;
+    font-family: Montserrat, termina, sans-serif;
     font-weight: 500;
-    font-style: normal;
-    font-size: 11px;
+    font-style: bold;
+    font-size: 14px;
     letter-spacing: 0px;
-    font-weight: bold;
 
 }
 
 .other-link {
     text-transform: uppercase;
      color : #9a3466;
-    font-family: termina, sans-serif;
-    font-weight: 200;
+    font-family: Montserrat, termina, sans-serif;
+    font-weight: 500;
     font-style: normal;
-    font-size: 11px;
-    font-weight: bold;
+    font-size: 14px;
     letter-spacing: 0px;
 }
 
