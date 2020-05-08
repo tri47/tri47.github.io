@@ -1,6 +1,6 @@
 markdown: kramdown
 description: Making sense of a fast-evolving world
-title: Tri Nguyen
+title: SCATTA
 url: "http://tri47.github.io/"
 exclude: [README.md, .gitignore, Gemfile, Gemfile.lock]
 theme: minima
