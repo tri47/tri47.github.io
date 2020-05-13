@@ -3,7 +3,7 @@ layout: post
 title: "Infographic: the MoMA art collection"
 subtitle: "What's on at the Museum of Modern Art - New York"
 date: 2020-05-13
-image: "moma.png"
+image: "MoMA.png"
 color: "#993366"
 htmlwidgets: TRUE
 ---
