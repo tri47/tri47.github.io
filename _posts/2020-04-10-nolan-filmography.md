@@ -27,10 +27,8 @@ Dunkirk is no doubt the most polarising film among Nolan's fans, only considered
 
 Everyone's favourite is, unsurprisingly, The Dark Knight with the stellar performance by Heath Ledger.
 
-<div>
-    <a onclick="return false" href="https://plotly.com/~tri.qu.nguyen/22/" target="_blank" title="nolan_scatter" style="display: block; text-align: center;"><img src="https://plotly.com/~tri.qu.nguyen/22.png" alt="nolan_scatter" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="tri.qu.nguyen:22" src="https://plotly.com/embed.js" async></script>
-</div>
+
+<iframe width="600" height="400" frameborder="0" scrolling="no" src="//plotly.com/~tri.qu.nguyen/22.embed" autosize="True"></iframe>
 
 <br/>
 Looking closer at the profit, Nolan only starts to make blockbusters consistently after the first Batman. I found The Prestige to be his most polished work yet. It's a shame that it did not receive a more deserving commercial success.
@@ -46,10 +44,9 @@ Looking closer at the profit, Nolan only starts to make blockbusters consistentl
 </p>
 
 Nolan's films have received 10 Academy Awards and more than thrice as many nominations. With the exception of Heath Ledger receiving an award for performance, most of the nominations and awards are in editting, music and cinematography (hover on the chart to see categories).
-<div>
-    <a onclick="return false" href="https://plotly.com/~tri.qu.nguyen/43/?share_key=Nl2v1mIYO08WqI780HL5CF" target="_blank" title="nolan_oscars" style="display: block; text-align: center;"><img src="https://plotly.com/~tri.qu.nguyen/43.png?share_key=Nl2v1mIYO08WqI780HL5CF" alt="nolan_oscars" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="tri.qu.nguyen:43" sharekey-plotly="Nl2v1mIYO08WqI780HL5CF" src="https://plotly.com/embed.js" async></script>
-</div>
+
+<iframe width="600" height="470" frameborder="0" scrolling="no" src="//plotly.com/~tri.qu.nguyen/43.embed"></iframe>
+
 <br/>
 This brings us to Nolan's most important collaborations. Nolan works with only a handful of composers, cinematographers and editors. Wally Pfister, for instance, has worked on 7 out of 10 of Nolan's films, received 4 nominations and won 1 oscar for cinematography.
 

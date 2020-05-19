@@ -9,10 +9,9 @@ htmlwidgets: TRUE
 ---
 **\*NOTE: This post contains interactive charts which are best viewed on a large screen.**
 
-<div>
-    <a onclick="return false" href="https://plotly.com/~tri.qu.nguyen/94/?share_key=8UcvsWxKG628cCfwJuxRjH" target="_blank" title="graph_top_books2" style="display: block; text-align: center;"><img src="https://plotly.com/~tri.qu.nguyen/94.png?share_key=8UcvsWxKG628cCfwJuxRjH" alt="graph_top_books2" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="tri.qu.nguyen:94" sharekey-plotly="8UcvsWxKG628cCfwJuxRjH" src="https://plotly.com/embed.js" async></script>
-</div>
+
+<iframe width="600" height="400" frameborder="0" scrolling="no" src="//plotly.com/~tri.qu.nguyen/94.embed"></iframe>
+
 <br>
 In this post, I analyse Goodreads's [Goodbooks-10k dataset](https://github.com/zygmuntz/goodbooks-10k). Goodreads is the most popular website for readers to share book reviews and maintain reading lists. As of 2020, Goodreads has more than 90 million users. The dataset contains 6 million user ratings for 10,000 most popular books. 
 
@@ -72,10 +71,8 @@ In the graph below, books are linked if they share more than 2000 unique readers
 
 In the centre are seven dark green circles - the seven Harry Potter books, along with To Kill a Mockingbird and The Hunger Games. Let's call this the Mainstream Centre.
 
-<div>
-    <a onclick="return false" href="https://plotly.com/~tri.qu.nguyen/90/?share_key=GqVuJ9leYBDR55qUsX7aIM" target="_blank" title="graph_top_books" style="display: block; text-align: center;"><img src="https://plotly.com/~tri.qu.nguyen/90.png?share_key=GqVuJ9leYBDR55qUsX7aIM" alt="graph_top_books" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="tri.qu.nguyen:90" sharekey-plotly="GqVuJ9leYBDR55qUsX7aIM" src="https://plotly.com/embed.js" async></script>
-</div>
+<iframe width="600" height="450" frameborder="0" scrolling="no" src="//plotly.com/~tri.qu.nguyen/90.embed"></iframe>
+
 <br>
 On the bottom left, you find the notorious Game of Thrones (A Song of Ice and Fire) series. It connects back to the center via the first book in the series. 
 
@@ -87,10 +84,7 @@ These linkages can be used as a recommendation system. We can also help readers 
 
 Let's add more titles, reduce the threshold to form a connection, and zoom on two particular books as below.
 
-<div>
-    <a onclick="return false" href="https://plotly.com/~tri.qu.nguyen/94/?share_key=8UcvsWxKG628cCfwJuxRjH" target="_blank" title="graph_top_books2" style="display: block; text-align: center;"><img src="https://plotly.com/~tri.qu.nguyen/94.png?share_key=8UcvsWxKG628cCfwJuxRjH" alt="graph_top_books2" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="tri.qu.nguyen:94" sharekey-plotly="8UcvsWxKG628cCfwJuxRjH" src="https://plotly.com/embed.js" async></script>
-</div>
+<iframe width="600" height="450" frameborder="0" scrolling="no" src="//plotly.com/~tri.qu.nguyen/94.embed"></iframe>
 <br>
 
 To Kill a Mockingbird is the centre of more "deep" books. It connects the Mainstream Center to Shakespeare, John Steinback etc.. In other words, To Kill a Mockingbird is the gateway drug to serious literature.
@@ -101,10 +95,7 @@ Without knowledge of the genres or authors of the books, simply by using the pre
 
 Here we add even more titles. I made the graph below zoomable so you can explore the clusters on your own.
 
-<div>
-    <a href="https://plotly.com/~tri.qu.nguyen/97/?share_key=hyrHbtykWCMRH036VD1SS8" target="_blank" title="graph_top_books3" style="display: block; text-align: center;"><img src="https://plotly.com/~tri.qu.nguyen/97.png?share_key=hyrHbtykWCMRH036VD1SS8" alt="graph_top_books3" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="tri.qu.nguyen:97" sharekey-plotly="hyrHbtykWCMRH036VD1SS8" src="https://plotly.com/embed.js" async></script>
-</div>
+<iframe width="600" height="450" frameborder="0" scrolling="no" src="//plotly.com/~tri.qu.nguyen/97.embed"></iframe>
 
 <br>
 ### Endnotes
