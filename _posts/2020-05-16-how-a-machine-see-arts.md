@@ -97,7 +97,7 @@ A few levels up, what the upper "managers" see is shown below. They don't look a
 ![](/assets/images/deeplearning/high_layer.png)
 
 
-If you look hard enough, you may find the concept a face, a face with a Renaissance neckpiece, eyes and ears, and somewhere, perhaps with a weird indescribable blob is the concept of Rembrandt's art. 
+If you look hard enough, you may find the concept of a face, a face with a Renaissance neckpiece, eyes and ears, and somewhere, perhaps with a weird indescribable blob is the concept of Rembrandt's art. 
 
 Let's try another one, this time with a Van Gogh painting since everyone loves Van Gogh.
 
