@@ -75,7 +75,7 @@ A Deep Learning model will have a lot more layers, with many workers or managers
 
 In the classic Neural Network architecture, each worker will report to every single manager. It turns out this is not terribly efficient at learning local patterns. So in Convoluted Neural Network, a manager only manages a specific group of workers.
 
-With the application of clever maths and more computing power, in recent years we have been able to add more layers of managers to make the model more sophisticated and capable of learning more complex concepts - hence the name Deep Learning. It means Neural Networks with more layers.
+With the application of clever maths and more computing power, in recent years we have been able to add more layers to make the model more sophisticated and capable of learning more complex concepts - hence the name Deep Learning. It means Neural Networks with more layers.
 
 ### What does it see?
 
