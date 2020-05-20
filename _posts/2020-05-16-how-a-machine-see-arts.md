@@ -19,7 +19,7 @@ Educational opportunity! "Well, look for paintings of people where each part is 
 
 I hope you already see how that would end up a disaster when your kid brought home some Kandinsky's ...
 
-Rules are hard to make, especially when they will be followed to the letter. That is how we tell machines to do tasks for us for a very long time. Following rules and algorithms the life purpose of machines.
+Rules are hard to make, especially when they will be followed to the letter. That is how we tell machines to do tasks for us for a very long time. Following rules is the life purpose of machines.
 
 But machines don't just blindly follow orders anymore. They can learn now.
 
