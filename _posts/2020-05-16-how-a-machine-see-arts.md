@@ -59,7 +59,9 @@ The accuracy is roughly 85%. Definitely way better than me.
 
 These are paintings that the machine has never seen before. It makes the prediction entirely by analysing the composition of the paintings and matching it with the artists' style.
 
-You can give it any random painting, and it will tell you whose style that painting is closest to. That is the core idea of Machine Learning - to enable machines to respond to situations they have never encountered.
+You can give the machine something you painted, and it will tell you whose style your painting is closest to.
+
+This is the core idea of Machine Learning - to enable machines to respond to situations they have never encountered.
 
 #### How does Deep Learning work?
 To explain, we look at a specific type of Deep Learning - Convoluted Neural Network. It is the most popular for image recognition task.
