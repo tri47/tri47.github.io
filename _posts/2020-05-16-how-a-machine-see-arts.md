@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Van Gogh and Deep Learning:<br>How a machine see arts"
+title: "Van Gogh and Deep Learning:<br>How a machine sees arts"
 subtitle: "Field notes from using Deep Learning to recognise artists from paintings"
 date: 2020-05-16
 image: "deepart.png"
@@ -51,6 +51,11 @@ I took a [collection of paintings](https://www.kaggle.com/ikarus777/best-artwork
 After a few hours of looking at them, the model was able to look at a painting it has never seen before and tell me who painted it.
 
 Below are 9 randomly drawn paintings and what the Deep Learning model think was the painter.
+
+These are paintings that the machine has never seen before. It makes the prediction entirely by analysing the composition of the paintings and matching it with the artists' style.
+
+That is the core idea of Machine Learning - to enable machines to respond to situations they have never encountered.
+
 
 ![](/assets/images/deeplearning/test2.png) 
 
