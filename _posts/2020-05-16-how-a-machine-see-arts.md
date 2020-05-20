@@ -109,7 +109,7 @@ The model was able to tell this was Van Gogh. To understand how, we ask the mode
 
 The part that is highlighted red was the most "Van Gogh" part, according to the machine.
 
-I ain't no art major so I can't tell you why it was important. What's with the trees and houses and the blue-purple-black colour???
+I ain't no art major so I can't tell you why it was important. What's with those weird trees in blue-purple-black colour???
 
 Incidentally, this is Starry Night. Is that giant wavy black thing the same kind of tree?
 
