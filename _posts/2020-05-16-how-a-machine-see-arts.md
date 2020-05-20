@@ -127,6 +127,7 @@ It is fascinating and it is scary.
 
 ### Futher reading
 For a more technical introduction to Neural Networks and Deep Learning, I highly recommend this site [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/).
+
 The book [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) by Google AI researcher François Chollet is a fantastic read. I am only halfway through it and already learned so much.
 
 
