@@ -92,7 +92,7 @@ Below is what an earlier layer of the model sees.
 
 Each of these images is a channel, an aspect of the painting that the "workers" see. They can represent colours, shapes, edge etc. But they still very closely resemble the original image.
 
-A few levels up, what the upper "managers" see is shown below. They don't look at the details anymore and pick out abstract ideas from painting.
+A few levels up, what the upper "managers" see is shown below. They don't look at the details anymore and pick out abstract ideas from the image.
 
 ![](/assets/images/deeplearning/high_layer.png)
 
