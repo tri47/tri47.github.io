@@ -38,7 +38,10 @@
       overflow: scroll !important;
   }
 
- 
+  .post-image-container {
+    display: flex;
+    justify-content: center;
+  }
 
   .image-caption {
       text-align: center !important;
