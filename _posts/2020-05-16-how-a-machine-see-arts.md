@@ -61,7 +61,7 @@ These are paintings that the machine has never seen before. It makes the predict
 
 You can give the machine something you painted, and it will tell you whose style your painting is closest to.
 
-This is the core idea of Machine Learning - to enable machines to respond to situations they have never encountered.
+This is the core idea of Machine Learning - to enable machines to respond to new situations.
 
 #### How does Deep Learning work?
 To explain, we look at a specific type of Deep Learning - Convoluted Neural Network. It is the most popular for image recognition task.
