@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Analysing Goodreads users rating data"
+title: "Analysing Goodreads' user rating data"
 subtitle: "Most unfinished, most controverisial books, and books as a network of preference"
 date: 2020-04-26
 image: "goodreads.png"
