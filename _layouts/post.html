@@ -8,7 +8,11 @@ layout: default
 <div class="whole-post">
 {%- include post-title.html title = page.title subtitle="" color=page.color -%}
 
-<div class="wrapper" style="max-width: 600px;">
+{%- if page.width %}
+<div class="wrapper" style="max-width: {{page.width}}">
+ {%- else -%}
+ <div class="wrapper" style="max-width: 600px">
+ {%- endif -%}
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
   <div class='sub-article'> 
