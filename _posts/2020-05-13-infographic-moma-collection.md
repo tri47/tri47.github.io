@@ -11,8 +11,16 @@ htmlwidgets: TRUE
 
 ![](/assets/images/moma_info.png)
 
-### Credit
-The dataset was obtained from MoMA's [github's repository](https://github.com/MuseumofModernArt/collection). The analysis was done in **Apache Spark**. The inforgraphic was created in **Adobe InDesign** with the great help of [Hanh La](https://www.linkedin.com/in/hanh-la-06886b128/).
+
+#### How this was made
+
+The analysis was done in **Apache Spark**. The inforgraphic was created in **Adobe InDesign** with the great help of [Hanh La](https://www.linkedin.com/in/hanh-la-06886b128/).
+
+The dataset was obtained from MoMA's [github's repository](https://github.com/MuseumofModernArt/collection). 
+
+See my [github repo](https://github.com/tri47/moma_collection_with_Spark/blob/master/README.md) for the Spark and Plotly code.
+
+
 
 
 
