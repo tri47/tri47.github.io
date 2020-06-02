@@ -33,8 +33,11 @@ Everyone's favourite is, unsurprisingly, The Dark Knight with the stellar perfor
 <br/>
 Looking closer at the profit, Nolan only starts to make blockbusters consistently after the first Batman. I found The Prestige to be his most polished work yet. It's a shame that it did not receive a more deserving commercial success.
 <br/>
+<div>
+    <a onclick="return false" href="https://plotly.com/~tri.qu.nguyen/39/?share_key=3ZoZSCp6TeomR7Ks6YdN5X" target="_blank" title="nolan_profit" style="display: block; text-align: center;"><img src="https://plotly.com/~tri.qu.nguyen/39.png?share_key=3ZoZSCp6TeomR7Ks6YdN5X" alt="nolan_profit" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="tri.qu.nguyen:39" sharekey-plotly="3ZoZSCp6TeomR7Ks6YdN5X" src="https://plotly.com/embed.js" async></script>
+</div>
 
-<iframe width="600" height="450" frameborder="0" scrolling="no" src="//plotly.com/~tri.qu.nguyen/39.embed"></iframe>
 
 <br/>
 <p style="text-align: left;  font-weight: bold; font-size:20px"> "That's why every magic trick has a third act, the hardest part, the part we call The Prestige"
@@ -62,7 +65,10 @@ Nolan's films are typically very long (in a good way). Here, we can see exactly 
 The Dark Knight Rises might have received a more positive response had it been a tad shorter.
 <br/>
 
-<iframe width="600" height="450" frameborder="0" scrolling="no" src="//plotly.com/~tri.qu.nguyen/53.embed"></iframe>
+<div>
+    <a onclick="return false" href="https://plotly.com/~tri.qu.nguyen/53/?share_key=m42H2fWXKkvwOP4uwZiJWK" target="_blank" title="nolan_times" style="display: block; text-align: center;"><img src="https://plotly.com/~tri.qu.nguyen/53.png?share_key=m42H2fWXKkvwOP4uwZiJWK" alt="nolan_times" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="tri.qu.nguyen:53" sharekey-plotly="m42H2fWXKkvwOP4uwZiJWK" src="https://plotly.com/embed.js" async></script>
+</div>
 
 <br/>
 <p style="text-align: left;  font-weight: bold; font-size:20px"> "Because making something disappear isn't enough; you have to bring it back."
