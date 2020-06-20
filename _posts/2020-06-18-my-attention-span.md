@@ -11,9 +11,7 @@ Human attention span was reduced from [12 seconds to 8 seconds between 2000-2015
 
 It is also common knowledge that it's difficult to focus for longer than 20 minutes, which is why a good public speaker will keep their speech succinct to avoid losing their audience.
 
-I try to measure my attention span by tracking how long I can focus on a task before my mind starts to wander. I stop the clock as soon as I get distracted, even if for only 5 seconds before I resume work. 
-
-In a way, it is how long I can keep my thoughts fixed on the current task.
+I try to measure my attention span by tracking how long I can focus on a task before my mind starts to wander. I stop the clock as soon as I get distracted, even if for only 5 seconds and I resume work immediately after. 
 
 <div class='tableauPlaceholder' id='viz1592556486821' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_15925294727340&#47;MyAttentionSpan&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_15925294727340&#47;MyAttentionSpan' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_15925294727340&#47;MyAttentionSpan&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object>
 </div>                
