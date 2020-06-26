@@ -1,11 +1,11 @@
 /* top matters */
 
 #main-header {
-    -webkit-animation: fadeinlong 0.9s; /* Safari, Chrome and Opera > 12.1 */
-       -moz-animation: fadeinlong 0.9s; /* Firefox < 16 */
-        -ms-animation: fadeinlong 0.9s; /* Internet Explorer */
-         -o-animation: fadeinlong 0.9s; /* Opera < 12.1 */
-            animation: fadeinlong 0.9s;
+    -webkit-animation: fadeinlong 1.1s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadeinlong 1.1s; /* Firefox < 16 */
+        -ms-animation: fadeinlong 1.1s; /* Internet Explorer */
+         -o-animation: fadeinlong 1.1s; /* Opera < 12.1 */
+            animation: fadeinlong 1.1s;
   }
 
   .title-block h1  {
