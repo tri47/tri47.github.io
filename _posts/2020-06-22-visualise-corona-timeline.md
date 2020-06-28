@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Visualising the CoVid-19 timeline"
+title: "My CoVid-19 dashboard"
 subtitle: ""
-date: 2020-03-12
+date: 2020-06-22
 image: "coronatimeline.png"
 color: "#663399"
 width: "1000px"
