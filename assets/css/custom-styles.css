@@ -9,11 +9,11 @@
   }
 
 #main-header h3 {
-    -webkit-animation: fadeinlongside 1.3s; /* Safari, Chrome and Opera > 12.1 */
-       -moz-animation: fadeinlongside 1.3s; /* Firefox < 16 */
-        -ms-animation: fadeinlongside 1.3s; /* Internet Explorer */
-         -o-animation: fadeinlongside 1.3s; /* Opera < 12.1 */
-            animation: fadeinlongside 1.3s;
+    -webkit-animation: fadeinlongside 1.5s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadeinlongside 1.5s; /* Firefox < 16 */
+        -ms-animation: fadeinlongside 1.5s; /* Internet Explorer */
+         -o-animation: fadeinlongside 1.5s; /* Opera < 12.1 */
+            animation: fadeinlongside 1.5s;
 
   }
 
