@@ -1,6 +1,6 @@
 /* top matters */
 
-#main-header {
+#main-header h1 {
     -webkit-animation: fadeinlong 1.1s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadeinlong 1.1s; /* Firefox < 16 */
         -ms-animation: fadeinlong 1.1s; /* Internet Explorer */
@@ -8,12 +8,22 @@
             animation: fadeinlong 1.1s;
   }
 
+#main-header h3 {
+    -webkit-animation: fadeinlongside 1.3s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadeinlongside 1.3s; /* Firefox < 16 */
+        -ms-animation: fadeinlongside 1.3s; /* Internet Explorer */
+         -o-animation: fadeinlongside 1.3s; /* Opera < 12.1 */
+            animation: fadeinlongside 1.3s;
+
+  }
+
   .title-block h1  {
-    -webkit-animation: fadeinshort 0.8s; /* Safari, Chrome and Opera > 12.1 */
-    -moz-animation: fadeinshort 0.8s; /* Firefox < 16 */
-     -ms-animation: fadeinshort 0.8s; /* Internet Explorer */
-      -o-animation: fadeinshort 0.8s; /* Opera < 12.1 */
-         animation: fadeinshort 0.8s;
+    -webkit-animation: fadeinshort 0.9s; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: fadeinshort 0.9s; /* Firefox < 16 */
+     -ms-animation: fadeinshort 0.9s; /* Internet Explorer */
+      -o-animation: fadeinshort 0.9s; /* Opera < 12.1 */
+         animation: fadeinshort 0.9s;
+         
   }
 
   @keyframes fadeinlong {
@@ -25,9 +35,18 @@
         }
 }
 
+@keyframes fadeinlongside {
+    from {  opacity: 0; 
+            transform: translateX(80px);
+        }
+    to   { opacity: 1; 
+           transform: translateX(0);
+        }
+}
+
 @keyframes fadeinshort {
     from {  opacity: 0; 
-            transform: translateY(-40px);
+            transform: translateY(-50px);
         }
     to   { opacity: 1; 
            transform: translateY(0);
