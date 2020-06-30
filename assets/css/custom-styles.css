@@ -348,7 +348,8 @@ html,body
     max-width: 40%;
     min-width: 310px; 
     margin-bottom: 10px;
-    background-color: #d7e4ed;
+   /* background-color: #d7e4ed; */
+    border: solid 1px #d7e4ed;
 
 }
 
@@ -447,7 +448,7 @@ html,body
 .post-snippet {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    font-family:  "PT Serif", sans-serif;
+    font-family: Montserrat, sans-serif;
     font-size: 14px;
     padding-left: 30px;
     padding-right: 30px;
