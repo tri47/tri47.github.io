@@ -348,8 +348,8 @@ html,body
     max-width: 40%;
     min-width: 310px; 
     margin-bottom: 10px;
-   /* background-color: #d7e4ed; */
-    border: solid 1px #d7e4ed;
+    background-color: #d7e4ed; 
+   /* border: solid 1px #d7e4ed; */
 
 }
 
