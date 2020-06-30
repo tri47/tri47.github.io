@@ -445,9 +445,10 @@ html,body
 }
 
 .post-snippet {
-    font-family:  termina, sans-serif;
-    font-weight: 100;
-    font-size: 13px;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-family:  "PT Serif", sans-serif;
+    font-size: 14px;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 10px;
