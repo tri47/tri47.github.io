@@ -10,7 +10,7 @@ summary: Our attention span is decaying. We are addicted to short tweets, videos
 ---
 Human attention span was reduced from [12 seconds to 8 seconds between 2000-2015](https://venturebeat.com/2016/12/04/our-8-second-attention-span-and-the-future-of-news-media/).
 
-It is also common knowledge that it's difficult to focus for longer than 20-30 minutes, which is why a good public speaker should be less than 20 minutes and lectures are ideally less than 45 minutes.
+It is also difficult for us to focus for longer than 20-30 minutes, which is why a good public speaker should be less than 20 minutes and lectures are generally less than 45 minutes.
 
 I try to measure my attention span by tracking how long I can focus on a task before my mind starts to wander. 
 
