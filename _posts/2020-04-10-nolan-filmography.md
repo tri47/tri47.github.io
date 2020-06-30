@@ -6,6 +6,7 @@ date: 2020-04-18
 image: "nolan2.png"
 color: "#4cadc7"
 htmlwidgets: TRUE
+summary: From Batman to Inception, what has Christopher Nolan achieved in 20 years of film making?
 ---
 **\*NOTE: This post contains interactive charts which are best viewed on a large screen.**
 

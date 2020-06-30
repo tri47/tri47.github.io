@@ -6,6 +6,7 @@ date: 2020-06-18
 image: "attention.png"
 color: "#4cadc7"
 htmlwidgets: TRUE
+summary: Our attention span is decaying. We are addicted to short tweets, videos and stimulus. The question is ... wait, where was I?
 ---
 Human attention span was reduced from [12 seconds to 8 seconds between 2000-2015](https://venturebeat.com/2016/12/04/our-8-second-attention-span-and-the-future-of-news-media/).
 

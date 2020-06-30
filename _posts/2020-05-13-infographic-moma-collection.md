@@ -6,6 +6,7 @@ date: 2020-05-13
 image: "MoMA.png"
 color: "#993366"
 htmlwidgets: TRUE
+summary: Asking pointy questions that will annoy the art gallery tour guide.
 ---
 
 

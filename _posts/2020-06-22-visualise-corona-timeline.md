@@ -6,6 +6,7 @@ date: 2020-06-22
 image: "coronatimeline.png"
 color: "#663399"
 width: "1000px"
+summary: "A look into events leading up to the worldwide lockdown, statistics for all countries, with a particular focus on Australia and our response."
 ---
 **This post contains interactive charts which are best viewed on a large screen.**
 

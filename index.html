@@ -33,15 +33,16 @@ title: Home
                              <p> {{ post.title }} </p>
                         </div>
                         <div class='index-image-wrapper'>
-                        <div class = "post-index-image">
-                            <img src="assets/images/posts/{{post.image}}" alt=""/>
-                        </div>
+                            <div class = "post-index-image">
+                                <img src="assets/images/posts/{{post.image}}" alt=""/>
+                            </div>
                         </div>
                         <h4 class="index-date">{{ post.date | date_to_string }} </h4>
-
                     </a>
+                    
             </div>
-
+            <a href="{{ site.baseurl }}{{ post.url }}"><div class="post-snippet">{{ post.summary }}</div> </a>
+            <!-- <a href="{{ site.baseurl }}{{ post.url }}">Read more</a> -->
         </div>
         {% endfor %}      
           

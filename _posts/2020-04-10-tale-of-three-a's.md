@@ -6,6 +6,7 @@ date: 2020-04-10
 image: "au.png"
 color: "#4cadc7"
 htmlwidgets: TRUE
+summary: This post does not constitute financial advice. Consult your own certified crystal ball.
 ---
 **\*NOTE: This post contains interactive charts which are best viewed on a large screen.**
 

@@ -5,6 +5,7 @@ subtitle: "An extractive approach"
 date: 2020-03-20
 image: "textsum.png"
 color: "#3366cc"
+summary: "Adapting latent sentiment analysis for automatic text summarisation. Or how I discovered machine learning doesn't solve everything."
 ---
 
 ![TextSummariserDemo](/assets/images/textsumdemo.gif)

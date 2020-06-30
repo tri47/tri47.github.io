@@ -6,6 +6,7 @@ date: 2020-05-16
 image: "deepart.png"
 color: "#993366"
 htmlwidgets: TRUE
+summary: Using deep learning to recognise artists' styles from paintings. A peek into how machine learning perceives creative works.
 ---
 <div class="post-image-container">
      <img src="/assets/images/deeplearning/title.png"> 
