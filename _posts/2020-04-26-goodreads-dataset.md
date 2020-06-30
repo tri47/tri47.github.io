@@ -6,7 +6,7 @@ date: 2020-04-26
 image: "goodreads.png"
 color: "#663399"
 htmlwidgets: TRUE
-summary: How far apart are Harry Potter and 1984? What do the Bible and Twilight have in common?
+summary: How difference are Harry Potter and 1984? What do the Bible and Twilight have in common?
 ---
 **\*NOTE: This post contains interactive charts which are best viewed on a large screen.**
 
