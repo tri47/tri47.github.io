@@ -5,7 +5,7 @@ subtitle: "What could possibly go wrong?"
 date: 2020-03-15
 image: "foodblog.png"
 color: "#89306f"
-summary: Adapting OpenAI GPT-2 language model to write food blogs.
+summary: Using OpenAI GPT-2 language model to write food blogs.
 ---
 > Happy Sunday Melbourne! I’m here to spoon a delicious home-made Guacamole and Butternut Smoked Salmon.
 
