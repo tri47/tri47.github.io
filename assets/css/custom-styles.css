@@ -348,7 +348,7 @@ html,body
     max-width: 40%;
     min-width: 310px; 
     margin-bottom: 10px;
-    background-color: #d7e4ed; 
+    background-color: #dce9f3; 
    /* border: solid 1px #d7e4ed; */
 
 }
@@ -449,7 +449,7 @@ html,body
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     font-family: Montserrat, sans-serif;
-    font-size: 14px;
+    font-size: 15px;
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 10px;
