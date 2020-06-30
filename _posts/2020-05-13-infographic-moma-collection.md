@@ -10,7 +10,7 @@ summary: Asking pointy questions that will annoy the art gallery tour guide.
 ---
 
 
-![Loading ...](/assets/images/moma_info.png)
+![Loading image ...](/assets/images/moma_info.png)
 
 
 #### How this was made

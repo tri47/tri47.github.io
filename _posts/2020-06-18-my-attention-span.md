@@ -17,7 +17,7 @@ I try to measure my attention span by tracking how long I can focus on a task be
 
 I stop the clock as soon as I get distracted, even if for only 10 seconds and I resume work immediately after.
 
-![Loading ...](/assets/images/attention_span.png)
+![Loading image ...](/assets/images/attention_span.png)
 
 [Link to the Tableau workbook.](https://public.tableau.com/profile/tri1422#!/vizhome/TrackingmyAttentionSpan/MyAttentionSpan)
 
