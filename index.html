@@ -51,6 +51,7 @@ title: Home
         {% endfor %}     
 
         {% for post in site.posts %}
+        {% unless post.featured %}
         <div class="each-post">
             <div class="index-container">
                     <a href="{{ post.url }}" title="{{ post.title }}">
@@ -68,6 +69,7 @@ title: Home
             <a href="{{ site.baseurl }}{{ post.url }}"><div class="post-snippet">{{ post.summary }}</div> </a>
             <!-- <a href="{{ site.baseurl }}{{ post.url }}">Read more</a> -->
         </div>
+        {% endunless %}
         {% endfor %}      
           
 
