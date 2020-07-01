@@ -4,26 +4,19 @@
     <div class="wrapper" style="width: 100%; ">
   
       <div class="footer-col-wrapper" style="text-align: center;">
-       
-          <a href="{{ 'feed.xml' | relative_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a> <br/>
-      
-        Author:
-            {% if site.author.name -%}
+        SCATTA<br/>
+        {%- if site.author %}
+            By: {% if site.author.name -%}
               {{ site.author.name | escape }}<br/>
             {% endif -%}
-            {% if site.author.email -%} 
-              <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> <br/>
-            {%- endif %} 
+            {% if site.author.email -%}
+              <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+            {%- endif %}
+        {%- endif %} 
+        {%- include social.html -%} 
 
-        {%- include social.html -%} <br/>
-        <span style="font-size:16px">SCATTA</span> <br/>
-        <span style="font-size:16px">
           {{ site.description | escape }} 
-        </span>
+
           
         </div>
       </div>
