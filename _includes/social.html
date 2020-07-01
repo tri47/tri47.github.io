@@ -1,6 +1,7 @@
 {%- assign social = site.social_links -%}
 
 <div style="text-align: center; margin-top: 4px;">
+
   {%- for glb in social.gitlab -%}{%- if glb.username and glb.instance -%}<li><a rel="me" href="https://{{ glb.instance | cgi_escape | escape}}/{{glb.username}}" title="{{ glb.username | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#gitlab' | relative_url }}"></use></svg></a></li>{%- endif -%}{%- endfor -%}
   {%- if social.linkedin -%} <a rel="me" href="https://www.linkedin.com/in/{{ social.linkedin | cgi_escape | escape }}" title="{{ social.linkedin | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg>LinkedIn</a>
   {%- endif -%} <br/>
@@ -10,12 +11,6 @@
 
 
   {%- if social.telegram -%}<a rel="me" href="https://t.me/{{ social.telegram | cgi_escape | escape }}" title="{{ social.telegram | escape }}"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#telegram' | relative_url }}"></use></svg></a>{%- endif -%}
-  <p class="feed-subscribe">
-    <a href="{{ 'feed.xml' | relative_url }}">
-      <svg class="svg-icon orange">
-        <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-      </svg><span>Subscribe</span>
-    </a>
-</p>
+
 </div>
 
