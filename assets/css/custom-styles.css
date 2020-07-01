@@ -473,3 +473,40 @@ html,body
     display: none;
 
 }
+
+/* PIN */
+.pin img {
+    position: absolute;
+    top: 0px;
+    right: 10px;
+    width: 20px;
+}
+
+
+.pin .pintooltip{
+    visibility: hidden;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 6px;
+  
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    top: -5px;
+    right: 30px;
+    font-family: Montserrat, termina, sans-serif;
+  
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+
+
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+.pin:hover .pintooltip {
+    visibility: visible;
+    opacity: 1;
+  }

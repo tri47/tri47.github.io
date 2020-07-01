@@ -26,6 +26,31 @@ title: Home
         </div>
 
         {% for post in site.posts %}
+        {% if post.featured %}
+        <div class="each-post">
+            <div class="index-container">
+                    <a href="{{ post.url }}" title="{{ post.title }}">
+                        <div class="post-index-title">
+                             <p>{{ post.title }} </p>
+                             <p class="pin"> <img src="assets/images/star.png"/> 
+                                <span class="pintooltip">Featured</span>
+                            </p>
+                        </div>
+                        <div class='index-image-wrapper'>
+                            <div class = "post-index-image">
+                                <img  src="assets/images/posts/{{post.image}}" alt=""/>
+                            </div>
+                        </div>
+                        <h4 class="index-date">{{ post.date | date_to_string }} </h4>
+                    </a>
+            </div>
+            <a href="{{ site.baseurl }}{{ post.url }}"><div class="post-snippet">{{ post.summary }}</div> </a>
+            <!-- <a href="{{ site.baseurl }}{{ post.url }}">Read more</a> -->
+        </div>
+        {% endif %}
+        {% endfor %}     
+
+        {% for post in site.posts %}
         <div class="each-post">
             <div class="index-container">
                     <a href="{{ post.url }}" title="{{ post.title }}">
@@ -39,7 +64,6 @@ title: Home
                         </div>
                         <h4 class="index-date">{{ post.date | date_to_string }} </h4>
                     </a>
-                    
             </div>
             <a href="{{ site.baseurl }}{{ post.url }}"><div class="post-snippet">{{ post.summary }}</div> </a>
             <!-- <a href="{{ site.baseurl }}{{ post.url }}">Read more</a> -->
