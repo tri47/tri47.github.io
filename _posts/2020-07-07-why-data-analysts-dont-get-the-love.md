@@ -16,7 +16,7 @@ You finally consolidated all the important data sources in your company. No more
 
 You deployed your ETL jobs, wrote clean and optimised SQL scripts that automated everything. It was as live as it got.
 
-You even created automatic tests. Nothing got deployed unless it has been thoroughly tested. You built a beautiful dashboard. You presented your solution. The business loves it.
+You even created automatic tests. Nothing got deployed unless it has been thoroughly tested. You built a beautiful dashboard. You presented your solution. The business loved it.
 
 First two weeks, you got queries about your calculations. No problems! you documented all of that. There were a few questions about the figures, but you explained them all with ease and confidence.
 
