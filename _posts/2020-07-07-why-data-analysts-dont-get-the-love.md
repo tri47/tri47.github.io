@@ -128,7 +128,7 @@ You want the product owner to ask you to set up a dashboard to track the effecti
 
 You need to build a good relationship with the business and be a data evangelic because you are the expert here. Take advantage of your access to the plethora of data and help people. Show them what value you can bring.
 
-Be an ally, not a carrier of bad news.
+Be a helpful ally, not a carrier of bad news.
 
 
 ### The caveat
