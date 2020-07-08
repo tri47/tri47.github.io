@@ -52,7 +52,7 @@ Let's break it down.
 
 A broken water pipe is a problem. It's not an insight. My main water pipe broke because I contracted a dodgy tradie who worked in thongs while high on weed and asked for cash only is an insight.
 
-The revenue has been trending down the last three quarters is not an insight. Anyone with access to the data and minimal excel skill can figure that out.
+The revenue has been trending down the last three quarters is not an insight. Anyone with access to the data and minimal excel skill could figure that out.
 
 The revenue is trending down because sales of our most popular product have stagnated due to the flood, while our other products are doing well is an insight.
 
@@ -64,7 +64,7 @@ But if you bring actionable insights, you're no longer the messenger, you're the
 
 Actionable insights are insights that you can act on immediately. If you show your boss that customer conversion is low, there is not much your boss can do except to figure out (analyse) how to bring it back up, which (hopefully) is your job. But if you tell your boss conversion rate is low when the website crashes during checkout, your boss can act immediately by talking to whoever responsible for that checkout feature.
 
-This distinction is perhaps the most important lesson for data analysts, for from it stem many ideas on how else we can approach a problem.
+This distinction is perhaps the most important lesson for data analysts, because from it stem many ideas on how else we can approach a problem.
 
 ### Measure impacts, not metrics
 
@@ -72,7 +72,7 @@ If I look at your dashboard right now, does it tell me if I should buy your comp
 
 Any metrics that do not immediately tell you if your business is doing well or not have no business being there.
 
-Is traffic to our physical stores a good indicator? Not if most people just want to see the products and go buy them online from our competitor. It's just a metric without known impacts.
+It's not always straightforward. Is traffic to our physical stores a good indicator? Not if most people just want to see the products and go buy them online from our competitor.
 
 Website visit figure is equally pointless if it is not translated into profit, unless your website's income is from pay per click ads. Even then, you want to measure how much money you're making from clicks, not the site visit itself.
 
