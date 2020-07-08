@@ -107,6 +107,8 @@ This is not a call to abandon efforts to improve accuracy. It's a call to accept
 
 As long as the way you measure impacts is consistent, i.e., I can compare figures from this quarter to the last few, or between customer segments, then your data still brings values, just not the accuracy required for when you're trying to work out the dosage for a new vaccine.
 
+You may spend a behemoth effort on making the numbers accurate, only to find out that nobody cares.
+
 Being liberated from the need to be painstakingly correct - which is impossible anyway - you have the time and resources to achieve something better.
 
 ### Being an ally
