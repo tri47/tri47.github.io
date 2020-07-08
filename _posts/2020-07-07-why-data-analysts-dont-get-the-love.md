@@ -50,7 +50,7 @@ Let's break it down.
 
 ***Insight <> problem***
 
-A broken water pipe is a problem. It's not an insight. My main water pipe broke because I contracted a dodgy tradie who worked in thongs and asked for cash only is an insight.
+A broken water pipe is a problem. It's not an insight. My main water pipe broke because I contracted a dodgy tradie who worked in thongs while high on weed and asked for cash only is an insight.
 
 The revenue has been trending down the last three quarters is not an insight. Anyone with access to the data and minimal excel skill can figure that out.
 
