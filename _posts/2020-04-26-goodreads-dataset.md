@@ -35,16 +35,16 @@ The most popular book according to the number of ratings is The Hunger Games, fo
 Have you ever felt the guilt of not finishing something you started? You are not alone. Here, we summarised books that are most often given tags such as "unfinished", "just-cant-do-it", "half-finished" by readers.
 
 <ul style='font-size:16px'>
-<li>1. Joseph Heller, Catch-22</li>
-<li>2. George R.R. Martin, A Game of Thrones (A Song of Ice and Fire, #1)</li>
-<li>3. Markus Zusak, The Book Thief</li>
-<li>4. Leo Tolstoy, Anna Karenina</li>
-<li>5. Vladimir Nabokov, Lolita</li>
-<li>6. Neil Gaiman, American Gods (American Gods, #1)</li>
-<li>7. Susanna Clarke, Jonathan Strange & Mr Norrell</li>
-<li>8. Jane Austen, Pride and Prejudice</li>
-<li>9. E.L. James, Fifty Shades of Grey</li>
-<li>10. George Orwell, 1984</li>
+<li>1. Catch-22, Joseph Heller</li>
+<li>2. A Game of Thrones (A Song of Ice and Fire, #1), George R.R. Martin</li>
+<li>3. The Book Thief, Markus Zusak</li>
+<li>4. Anna Karenina, Leo Tolstoy</li>
+<li>5. Lolita, Vladimir Nabokov</li>
+<li>6. American Gods (American Gods, #1), Neil Gaiman</li>
+<li>7. Jonathan Strange & Mr Norrell, Susanna Clarke</li>
+<li>8. Pride and Prejudice, Jane Austen</li>
+<li>9. Fifty Shades of Grey, E.L. James</li>
+<li>10. 1984, George Orwell</li>
 </ul>
 
 
