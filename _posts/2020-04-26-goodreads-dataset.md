@@ -11,7 +11,7 @@ summary: How different are Harry Potter and 1984? What do the Bible and Twilight
 **\*NOTE: This post contains interactive charts which are best viewed on a large screen.**
 
 
-<iframe width="600" height="400" frameborder="0" scrolling="no" src="//plotly.com/~tri.qu.nguyen/94.embed"></iframe>
+<iframe width="600" height="450" frameborder="0" scrolling="no" src="//plotly.com/~tri.qu.nguyen/90.embed"></iframe>
 
 <br>
 In this post, I analyse Goodreads's [Goodbooks-10k dataset](https://github.com/zygmuntz/goodbooks-10k). Goodreads is the most popular website for readers to share book reviews and maintain reading lists. As of 2020, Goodreads has more than 90 million users. The dataset contains 6 million user ratings for 10,000 most popular books. 
