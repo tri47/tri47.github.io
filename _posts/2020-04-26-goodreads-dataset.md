@@ -16,9 +16,9 @@ summary: How different are Harry Potter and 1984? What do the Bible and Twilight
 <br>
 In this post, I analyse Goodreads's [Goodbooks-10k dataset](https://github.com/zygmuntz/goodbooks-10k). Goodreads is the most popular website for readers to share book reviews and maintain reading lists. As of 2020, Goodreads has more than 90 million users. The dataset contains 6 million user ratings for 10,000 most popular books. 
 
-I conducted the analysis in [Spark](https://spark.apache.org/) on Amazon's [EMR](https://aws.amazon.com/emr/). The visualisation was done in [Plotly](https://plotly.com/).
+I conducted the analysis in Spark on Amazon's Elastic MapReduce (EMR). The visualisation was done in Plotly.
 
-[Github repo](https://github.com/tri47/goodreads_10k_books).
+For the code, see my [Github repo](https://github.com/tri47/goodreads_10k_books).
 
 ### Most popular books
 
@@ -34,15 +34,12 @@ The most popular book according to the number of ratings is The Hunger Games, fo
 
 Have you ever felt the guilt of not finishing something you started? You are not alone. Here, we summarised books that are most often given tags such as "unfinished", "just-cant-do-it", "half-finished" by readers.
 
-|Rank| Cover      | Author           | Book name  |
-| --- | :---------: | ------------- | ----- |
-|1|![](https://images.gr-assets.com/books/1463157317m/168668.jpg)| Joseph Heller|Catch-22|
-|2|![](https://images.gr-assets.com/books/1436732693m/13496.jpg)| George R.R. Martin|A Game of Thrones (A Song of Ice and Fire, #1)|
-|3|![](https://images.gr-assets.com/books/1390053681m/19063.jpg)| Markus Zusak|The Book Thief|
-|4|![](https://images.gr-assets.com/books/1352422904m/15823480.jpg)| Leo Tolstoy|Anna Karenina|
-|5|![](https://images.gr-assets.com/books/1377756377m/7604.jpg)| Vladimir Nabokov|Lolita|
-
 <ul style='font-size:16px'>
+<li>1. Joseph Heller, Catch-22</li>
+<li>2. George R.R. Martin, A Game of Thrones (A Song of Ice and Fire, #1)</li>
+<li>3. Markus Zusak, The Book Thief</li>
+<li>4. Leo Tolstoy, Anna Karenina</li>
+<li>5. Vladimir Nabokov, Lolita</li>
 <li>6. Neil Gaiman, American Gods (American Gods, #1)</li>
 <li>7. Susanna Clarke, Jonathan Strange & Mr Norrell</li>
 <li>8. Jane Austen, Pride and Prejudice</li>

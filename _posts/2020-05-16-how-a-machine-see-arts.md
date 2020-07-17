@@ -8,10 +8,9 @@ color: "#993366"
 htmlwidgets: TRUE
 summary: Using deep learning to recognise artists' styles from paintings. A peek into how machine learning perceives creative works.
 ---
-<div class="post-image-container">
-     <img src="/assets/images/deeplearning/title.png"> 
-</div>
-<br/>
+![](/assets/images/deeplearning/low_layer.png)
+
+
 You're rich. You just moved and need to decorate the new place. You give your 6-year-old a few hundred million dollars and tell him to run to the gallery to buy a couple of Picasso paintings. 
 
 He asks, "how do I know which ones are Picasso"? 
