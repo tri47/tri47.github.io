@@ -6,7 +6,7 @@ date: 2020-07-07
 image: "analyst.png"
 color: "#3366cc"
 htmlwidgets: TRUE
-summary: The mindset changes that make you a more valuable contributor to your organisation.
+summary: The mindset changes to make your dashboard matters.
 ---
 
 ![](/assets/images/wal.jpg)
