@@ -10,7 +10,7 @@ Find me on [**LinkedIn**](https://www.linkedin.com/in/tri-q-nguyen), and [**GitH
 
 I have worked as a <span class="red-text">**Data Analyst**</span>, a <span class="red-text">**Business Analyst**</span>, and an <span class="red-text">**Engineer**</span> at Telstra, Service Stream, Spectrum Engineering and CSIRO. My bachelor degree was in Engineering from [**ANU**](https://www.anu.edu.au/).
 
-I also studies part-time for a Master in Data Science at [**Georgia Tech**](https://www.gatech.edu/). Go Jackets!
+I also study part-time for a Master in Data Science at [**Georgia Tech**](https://www.gatech.edu/). Go Jackets!
 
 While not at my desk, I enjoy bouldering, Judo, hiking and strategy board games.
 
