@@ -4,7 +4,7 @@ title: "Predicting Titanic survival with feature engineering and XGBoost"
 subtitle: ""
 date: 2020-08-15
 image: "titanic.png"
-color: "#89306f"
+color: "#993366"
 htmlwidgets: TRUE
 summary: How to reach top 4% of Kaggle Titanic dataset competition.
 ---
