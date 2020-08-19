@@ -29,10 +29,7 @@ At very lower income, you're better off (tax-wise) living in Australia or UK whe
 I certainly feel a bit glad that I am not living in Belgium, although it does make me wonder what societal betterments I am missing out on by paying less ...
 
 **Caveat:** 
-
-The calculation is based on the tax brackets for individuals.
-
-This not taking into account other charges and levy like medicare.
-
-The exchange rates at the time of writing was used.
+- The calculation is based on the tax brackets for individuals.
+- This not taking into account other charges and levy like medicare.
+- The exchange rates at the time of writing were used.
 
