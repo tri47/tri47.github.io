@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "A tale of three A's: Australian stock market vs Gold and Silver"
-subtitle: "An analysis of ASX 200 performance versus Gold and Silver over the last 30 years"
+title: "Analysis: Australian stock market vs Gold and Silver"
+subtitle: "A tale of three A's: ASX 200 performance versus Gold and Silver over the last 30 years"
 date: 2020-04-10
 image: "au.png"
 color: "#4cadc7"
 htmlwidgets: TRUE
 summary: How gold and silver prices move relative to the ASX 200 index.
+tags: finance tableau analysis
 ---
 **\*NOTE: This post contains interactive charts which are best viewed on a large screen.**
 

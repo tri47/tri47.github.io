@@ -49,3 +49,35 @@
       font-style: italic;
       font-weight: bold;
   }
+
+  /*Related post style */
+  .rect {
+    border-top: 1px solid #2A2222;
+    padding-top: 10px;
+    border-bottom: 1px solid #2A2222;
+    padding-bottom: 20px;
+    margin:0 auto;
+  }
+
+  .rect h3 {
+    margin: 0 auto;
+  }
+
+  .rect {
+    font-weight: normal;
+    color: black;
+  }
+  .rel a {
+      width: 100%;
+      display: inline-block;
+      color: black !important;
+      padding-top: 10px;
+      opacity: 0.8;
+      font-size: 14px;
+      font-family: Termina, Helvetica, sans-serif;
+      font-weight: 300;
+  }
+
+  .rel hover {
+      opacity: 1;    
+  }

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Van Gogh and Deep Learning:<br>How a machine sees arts"
+title: "Van Gogh and Deep Learning: How a machine sees arts"
 subtitle: "Field notes from using Deep Learning to recognise artists from paintings"
 date: 2020-05-16
 image: "deepart.png"
 color: "#993366"
 htmlwidgets: TRUE
 summary: Using deep learning to recognise artists' styles from paintings. A peek into how machine learning perceives creative works.
+tags: machine-learning deep-learning computer-vision art
 ---
 ![](/assets/images/deeplearning/low_layer.png)
 

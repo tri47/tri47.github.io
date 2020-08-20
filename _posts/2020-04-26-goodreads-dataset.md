@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Goodreads' user rating data"
-subtitle: "Most unfinished, most controverisial books, and books as a network of preference"
+subtitle: "Insights from 6 millions Goodreads user ratings on 10,000 most popular books"
 date: 2020-04-26
 image: "goodreads.png"
 color: "#663399"
 htmlwidgets: TRUE
 summary: How different are Harry Potter and 1984? What do the Bible and Twilight have in common?
+tags: art visualisation books analysis
 ---
 **\*NOTE: This post contains interactive charts which are best viewed on a large screen.**
 

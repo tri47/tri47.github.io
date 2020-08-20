@@ -5,7 +5,7 @@ layout: default
   <link rel="stylesheet" href="/assets/css/post-styles.css">
   
   </head>
-<div class="whole-post">
+<div class="whole-post" style="display: inline;">
 {%- include post-title.html title = page.title subtitle="" color=page.color -%}
 
 {%- if page.width %}
@@ -14,51 +14,90 @@ layout: default
  <div class="wrapper" style="max-width: 600px">
  {%- endif -%}
 
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-  <div class='sub-article'> 
-  <header class="post-header">
-    <p class="content-subtitle" style="color: {{page.color}} ; ">{{page.subtitle}}</p>
-    <p class="post-meta">
-      {%- assign date_format = site.minima.date_format | default: "%d %-b, %Y" -%}
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.modified_date -%}
-        ~ 
-        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
-        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-          {{ mdate | date: date_format }}
-        </time>
+    <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+      <div class='sub-article'> 
+      <header class="post-header">
+        <p class="content-subtitle" style="color: {{page.color}} ; ">{{page.subtitle}}</p>
+        <p class="post-meta">
+          {%- assign date_format = site.minima.date_format | default: "%d %-b, %Y" -%}
+          <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            {{ page.date | date: date_format }}
+          </time>
+          {%- if page.modified_date -%}
+            ~ 
+            {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+            <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+              {{ mdate | date: date_format }}
+            </time>
+          {%- endif -%}
+          {%- if page.author -%}
+            • {% for author in page.author %}
+              <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+                {%- if forloop.last == false %}, {% endif -%}
+            {% endfor %}
+          {%- endif -%}</p>
+      </header>
+
+      <div class="post-content e-content" itemprop="articleBody">
+        {{ content }}
+      </div>
+
+      {%- if site.disqus.shortname -%}
+        {%- include disqus_comments.html -%}
       {%- endif -%}
-      {%- if page.author -%}
-        • {% for author in page.author %}
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-            {%- if forloop.last == false %}, {% endif -%}
+
+      <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+      <div class="PageNavigation">
+        {% if page.previous.url %}
+          <a class="prev" href="{{page.previous.url}}">&laquo; Previous Post</a>
+        {% endif %}
+          {% if page.next.url %}
+          <a class="next" href="{{page.next.url}}">Next Post &raquo;</a>  
+        {% endif %}
+      </div>
+    </div>
+    
+    <div class="rect">
+
+      <h3>Similar Posts You May Enjoy</h3>
+      
+      {% assign maxRelated = 4 %}
+      {% assign minCommonTags =  1 %}
+      {% assign maxRelatedCounter = 0 %}
+  
+        {% for post in site.posts %}
+      
+          {% assign sameTagCount = 0 %}
+          {% assign commonTags = '' %}
+      
+          {% for tag in post.tags %}
+            {% if post.url != page.url %}
+              {% if page.tags contains tag %}
+                {% assign sameTagCount = sameTagCount | plus: 1 %}
+                {% capture tagmarkup %}<span class="label label-default">{{tag}}, </span>{% endcapture %}
+                {% assign commonTags = commonTags | append: tagmarkup %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+      
+          {% if sameTagCount >= minCommonTags %}
+            <span class="rel">
+               <a href="{{ site.baseurl }}{{ post.url }}"> &raquo; {{ post.title }}</a>
+            </span>
+            {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+            {% if maxRelatedCounter >= maxRelated %}
+              {% break %}
+            {% endif %}
+          {% endif %}
+      
         {% endfor %}
-      {%- endif -%}</p>
-  </header>
+        </ul>
+      
+      </div>
 
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-
-  <div class="PageNavigation">
-    {% if page.previous.url %}
-      <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-    {% endif %}
-      {% if page.next.url %}
-      <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>  
-    {% endif %}
-  </div>
-</div>
-</article>
+    </article>
 
 </div>
 

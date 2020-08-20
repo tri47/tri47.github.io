@@ -7,6 +7,7 @@ image: "analyst.png"
 color: "#3366cc"
 htmlwidgets: TRUE
 summary: The mindset changes to make your dashboard matters.
+tags: discussion analysis
 ---
 
 ![](/assets/images/wal.jpg)

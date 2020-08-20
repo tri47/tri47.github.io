@@ -8,6 +8,7 @@ color: "#663399"
 width: "1000px"
 htmlwidgets: TRUE
 summary: Analysis and visualisation of diseases, preventative measures, and their correlation.
+tags: tableau health US
 ---
 **This post contains interactive charts which are best viewed on a large screen.**
 

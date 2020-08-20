@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Christopher Nolan filmography:<br>a visualisation"
+title: "Christopher Nolan filmography: a visualisation"
 subtitle: "Visualising 20 years of cinematic genius"
 date: 2020-04-18
 image: "nolan2.png"
 color: "#4cadc7"
 htmlwidgets: TRUE
 summary: From Batman to Inception, what has Christopher Nolan achieved in 20 years of film making?
+tags: art visualisation infographic
 ---
 **\*NOTE: This post contains interactive charts which are best viewed on a large screen.**
 

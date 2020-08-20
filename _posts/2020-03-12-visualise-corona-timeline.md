@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My CoVid-19 dashboard"
+title: "Global CoVid-19 dashboard"
 subtitle: ""
 date: 2020-03-12
 image: "coronatimeline.png"
@@ -8,6 +8,7 @@ color: "#663399"
 width: "1000px"
 summary: "A look into events leading up to the worldwide crisis, statistics for all countries, with a particular focus on Australia and our response."
 featured: True
+tags: tableau health python
 ---
 **This post contains interactive charts which are best viewed on a large screen.**
 

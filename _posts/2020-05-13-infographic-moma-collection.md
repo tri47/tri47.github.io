@@ -7,6 +7,7 @@ image: "MoMA.png"
 color: "#993366"
 htmlwidgets: TRUE
 summary: Asking pointy questions that will annoy the art gallery tour guide.
+tags: art infographic visualisation
 ---
 
 
