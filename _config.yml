@@ -16,6 +16,7 @@ minima:
 google_analytics: UA-167295992-1
 plugins:
   - jekyll-feed
+  - jekyll-paginate-v2
 excerpt_separator: "<!--break-->"
 
 
