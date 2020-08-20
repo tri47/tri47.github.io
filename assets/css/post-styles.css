@@ -15,7 +15,7 @@
     font-family: Termina, Helvetica, sans-serif;
     font-style: normal;
   }
-  
+  g
   .PageNavigation a {
     display: block;
     width: 40%;
@@ -34,7 +34,6 @@
 
   .tableauPlaceholder {
       float: left !important;
-      width: 1000px !important;
       overflow: scroll !important;
   }
 
