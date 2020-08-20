@@ -86,6 +86,7 @@ layout: default
             <span class="rel">
                <a href="{{ site.baseurl }}{{ post.url }}"> &raquo; {{ post.title }}</a>
             </span>
+            
             {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
             {% if maxRelatedCounter >= maxRelated %}
               {% break %}

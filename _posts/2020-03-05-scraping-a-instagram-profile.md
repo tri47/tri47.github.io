@@ -6,7 +6,7 @@ date: 2020-03-05
 image: "instagram.png"
 color: "#3366cc"
 summary: A guide on Instagram scraping and dealing with infinite scroll.
-tags: data-mining social-media python tutorial
+tags: data-mining social-media python
 ---
 ![](/assets/images/pancake1.png)
 <br/> <br/>

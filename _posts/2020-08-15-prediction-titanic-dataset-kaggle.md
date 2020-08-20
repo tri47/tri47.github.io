@@ -7,7 +7,7 @@ image: "titanic.png"
 color: "#993366"
 htmlwidgets: TRUE
 summary: How to reach top 4% of Kaggle Titanic dataset competition.
-tags: machine-learning tutorial kaggle
+tags: machine-learning kaggle
 ---
 
 <html>
