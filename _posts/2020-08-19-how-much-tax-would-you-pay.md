@@ -12,7 +12,7 @@ tags: finance tableau analysis
 
 ![](/assets/images/tax_time.jpg)
 
-If you're like me, then you may have bemoaned how much you have to pay in tax.
+If you're like me, then you may have bemoaned how much income tax you have to pay.
 
 To make myself feel better, I create a Tableau dashboard to show how much tax I would pay if I were living in another country.
 
