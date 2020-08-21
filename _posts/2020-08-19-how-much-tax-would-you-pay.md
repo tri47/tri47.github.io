@@ -44,7 +44,7 @@ Unlike Australia and the UK where the lowest bracket has a tax rate of zero, Bel
 I feel a bit glad that I am not living in Belgium, although it makes me wonder what societal betterments I am missing out on by paying less ...
 
 **Caveats:** 
-- This considers individual tax only.
+- This considers individual income tax only.
 - It does not taking into account other charges and levy like medicare.
 - The exchange rates at the time of writing were used.
 
