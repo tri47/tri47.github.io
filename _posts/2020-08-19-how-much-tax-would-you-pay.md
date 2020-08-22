@@ -43,7 +43,7 @@ Unlike Australia and the UK where the lowest bracket has a tax rate of zero, Bel
 
 
 **Caveats:** 
-- This considers individual income tax only.
+- I consider individual income tax only.
 - Medicare levy and UK National insurance are taken into account.
 - It does not taking into account other charges like medicare surcharge or low and mid income tax offset.
 - The exchange rates at the time of writing were used.
