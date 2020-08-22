@@ -1,30 +1,30 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-  <head> 
-    {%- if page.title == 'Home' %}
-      <title>SCATTA - Making sense of a fast-evolving world</title>
-    {%- else%}
-      <title>{{page.title}}</title>
-    {%- endif %} 
-    <link rel="shortcut icon" type="image/png" href="{{ "/favicon.png" | prepend: site.baseurl }}" >
+    <head> 
+        {%- if page.title == 'Home' %}
+          <title>SCATTA - Making sense of a fast-evolving world</title>
+        {%- else%}
+          <title>{{page.title}}</title>
+        {%- endif %} 
+        <link rel="shortcut icon" type="image/png" href="{{ "/favicon.png" | prepend: site.baseurl }}" >
 
-    <link rel="stylesheet" href="/assets/css/custom-styles.css">
-    <link rel="stylesheet" href="https://use.typekit.net/znl5vww.css">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,300&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,500;1,400&display=swap" rel="stylesheet"> 
-    {%- include head.html -%}
-    {% include analytics.html %}
+        <link rel="stylesheet" href="/assets/css/custom-styles.css">
+        <link rel="stylesheet" href="https://use.typekit.net/znl5vww.css">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,300&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,500;1,400&display=swap" rel="stylesheet"> 
+        {%- include head.html -%}
+        {% include analytics.html %}
+    </head>
+    
+    <body>
 
-  <body>
+        {%- include header.html -%}
 
-    {%- include header.html -%}
+        <main class="page-content" aria-label="Content" style="padding-top: 0px">
+            {{ content }}
+        </main>
 
-    <main class="page-content" aria-label="Content" style="padding-top: 0px">
-        {{ content }}
-    </main>
-
-    {%- include footer.html -%}
-
-  </body>
+        {%- include footer.html -%}
+    </body>
 
 </html>

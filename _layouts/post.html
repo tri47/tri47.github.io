@@ -1,19 +1,19 @@
 ---
 layout: default
+comments: true
 ---
 <head> 
   <link rel="stylesheet" href="/assets/css/post-styles.css">
-  
-  </head>
+</head>
+
 <div class="whole-post" style="display: inline;">
 {%- include post-title.html title = page.title subtitle="" color=page.color -%}
 
-{%- if page.width %}
-<div class="wrapper" style="max-width: {{page.width}}">
- {%- else -%}
- <div class="wrapper" style="max-width: 600px">
- {%- endif -%}
-
+  {%- if page.width %}
+  <div class="wrapper" style="max-width:{{page.width}}">
+  {%- else -%}
+  <div class="wrapper" style="max-width: 600px">
+  {%- endif -%}
     <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
       <div class='sub-article'> 
       <header class="post-header">
@@ -61,7 +61,7 @@ layout: default
     
     <div class="rect">
 
-      <h3>Similar Posts You Might Enjoy</h3>
+      <h3>Related Posts You Might Enjoy</h3>
       
       {% assign maxRelated = 4 %}
       {% assign minCommonTags =  1 %}
@@ -100,6 +100,8 @@ layout: default
 
     </article>
 
-</div>
+  </div>
 
 </div>
+
+<div id='comments'></div>

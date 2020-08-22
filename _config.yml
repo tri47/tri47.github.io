@@ -18,5 +18,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
 excerpt_separator: "<!--break-->"
+disqus:
+  shortname: scatta
 
 
