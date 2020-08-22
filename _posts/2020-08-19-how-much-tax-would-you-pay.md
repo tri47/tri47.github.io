@@ -33,14 +33,23 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
 
-Most countries have similar tax bracket systems like Australia. Taxation in Canada and the US is more complicated with federal and state (provincial) taxes.
+Most countries have a similar tax bracket system like Australia. 
+
+Taxation in Canada and the US is more complicated with federal and state (provincial) taxes. I might add them later when I have time.
+
+UK's tax rates and public health insurance charges are very similar to Australia's. However, its GST is double that of Australia.
 
 Monaco has no tax on individual income, but it has a GST of 19.6%. Russia has a flat tax rate of 13%.
+
+The devil is in the details. Different countries have different ways to apply GST/VAT, which can make your daily expenses or property purchases much more or less expensive. Might be a good topic for another post.
 
 Unlike Australia and the UK where the lowest bracket has a tax rate of zero, Belgium will tax you regardless of how much you earn.
 
 ![belgium_tax](/assets/images/belgium_tax.png)
 
+The idea of not charging income tax like Monaco, and focusing on having different rates for goods and services is an interesting one. Necessities like food and medicine may enjoy lower rates while luxurious can attract more.
+
+It's a debate that we rarely heard in Australia, but it might be something we should discuss given the fast-changing economic environment. 
 
 **Caveats:** 
 - I consider individual income tax only.
