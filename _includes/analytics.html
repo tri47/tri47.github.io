@@ -9,9 +9,8 @@
 )
 (window,document,'script','https://www.google-analytics.com/analytics.js','ga');
    
-/*ga('create', '{{ site.google_analytics }}', 'auto');
+ga('create', '{{ site.google_analytics }}', 'auto');
 ga('send', 'pageview');
-*/
 
 function timer05(){ga('send', 'event', 'TimeOnPage', '1', '05-10 seconds', { 'nonInteraction': 1 });}
 function timer11(){ga('send', 'event', 'TimeOnPage', '2', '11-30 seconds', { 'nonInteraction': 1 });}
@@ -20,6 +19,7 @@ function timer61(){ga('send', 'event', 'TimeOnPage', '4', '61-120 seconds', { 'n
 function timer121(){ga('send', 'event', 'TimeOnPage', '5', '121-180 seconds', { 'nonInteraction': 1 });}
 function timer181(){ga('send', 'event', 'TimeOnPage', '6', '181-300 seconds', { 'nonInteraction': 1 });}
 function timer301(){ga('send', 'event', 'TimeOnPage', '7', '301+ seconds', { 'nonInteraction': 1 });}
+
 ga('send', 'event', 'TimeOnPage', '0', '00-05 seconds', { 'nonInteraction': 1 });
 setTimeout(timer05,5000);
 setTimeout(timer11,11000);
