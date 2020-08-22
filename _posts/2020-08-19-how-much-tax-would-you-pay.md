@@ -25,8 +25,8 @@ var divElement = document.getElementById('viz1597900964307');
 var vizElement = divElement.getElementsByTagName('object')[0];                    
 if ( divElement.offsetWidth > 800 ) { vizElement.style.width='550px';vizElement.style.height='527px';} 
 else if ( divElement.offsetWidth > 500 ) 
-{ vizElement.style.width='550px';vizElement.style.height='527px';} 
-else { vizElement.style.width='100%';vizElement.style.height='850px';}                     
+{ vizElement.style.width='550px';vizElement.style.height='600px';} 
+else { vizElement.style.width='100%';vizElement.style.height='880px';}                     
 var scriptElement = document.createElement('script');                    
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
 vizElement.parentNode.insertBefore(scriptElement, vizElement);                
