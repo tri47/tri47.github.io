@@ -41,7 +41,7 @@ UK's tax rates and public health insurance charges are very similar to Australia
 
 Monaco has no tax on individual income, but it has a GST of 19.6%. Russia has a flat tax rate of 13%.
 
-Different countries have different ways to apply GST/VAT, which can make your daily expenses or property purchases much more or less expensive.
+Different countries apply GST/VAT differently, which can make your daily expenses or property purchases much more or less expensive.
 
 Unlike Australia and the UK where the lowest bracket has a tax rate of zero, Belgium will tax you regardless of how much you earn.
 
