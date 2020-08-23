@@ -4,7 +4,7 @@ title: "Disease and prevention in 500 US cities: an interactive visualisation"
 subtitle: "A study of the relationship between chronic diseases, risk factors, and preventions in 500 US cities"
 date: 2020-02-10
 image: "500cities.png"
-color: "#663399"
+color: "#3b7c82"
 width: "1000px"
 htmlwidgets: TRUE
 summary: Analysis and visualisation of diseases, preventative measures, and their correlation.

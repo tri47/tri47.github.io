@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Web app project: An online text summariser"
+title: "Project: An automatic online text summariser"
 subtitle: "An extractive approach"
 date: 2020-03-20
 image: "textsum.png"
-color: "#3366cc"
-summary: "Adapting latent sentiment analysis for automatic text summarisation. Or how I discovered machine learning doesn't solve everything."
+color: "#3d61ac"
+summary: "Adapting latent sentiment analysis for automatic text summarisation."
 tags: machine-learning NLP web
 ---
 

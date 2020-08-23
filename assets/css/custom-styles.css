@@ -143,7 +143,7 @@ html,body
 }
 
 .purple-text {
-    color:  #67329a;
+    color:  #3b7c82;
     ;
 
 }
@@ -153,13 +153,17 @@ html,body
 
 }
 
+.green-text {
+    color: #3b7c82;
+}
+
 .blue-text {
     color: #4badc6;
 
 }
 
 .very-blue-text {
-    color: #3366cc
+    color: #3d61ac
 
 }
 

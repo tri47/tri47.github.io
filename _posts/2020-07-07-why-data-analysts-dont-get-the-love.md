@@ -4,7 +4,7 @@ title: "Why data analysts don't get the love (we think) we deserve"
 subtitle: ""
 date: 2020-07-07
 image: "analyst.png"
-color: "#3366cc"
+color: "#3d61ac"
 htmlwidgets: TRUE
 summary: The mindset changes to make your dashboard matters.
 tags: discussion analysis

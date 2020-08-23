@@ -4,7 +4,7 @@ title: "Goodreads' user rating data"
 subtitle: "Insights from 6 millions Goodreads user ratings on 10,000 most popular books"
 date: 2020-04-26
 image: "goodreads.png"
-color: "#663399"
+color: "#3b7c82"
 htmlwidgets: TRUE
 summary: How different are Harry Potter and 1984? What do the Bible and Twilight have in common?
 tags: art visualisation books analysis
