@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Project TL-DR: an online text summariser"
+title: "Web app project: An online text summariser"
 subtitle: "An extractive approach"
 date: 2020-03-20
 image: "textsum.png"
