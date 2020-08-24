@@ -47,9 +47,7 @@ Unlike Australia and the UK where the lowest bracket has a tax rate of zero, Bel
 
 ![belgium_tax](/assets/images/belgium_tax.png)
 
-The idea of not charging income tax like Monaco, and focusing on having different rates for goods and services is an interesting one. Necessities like food and medicine may enjoy lower rates while luxurious goods can attract more.
-
-It's a debate we rarely have in Australia, but a new tax regime - whatever that is - might be something we should discuss given the fast-changing economic environment. 
+Which tax system do you think will work well in Australia?
 
 **Caveats:** 
 - I consider individual income tax only.
