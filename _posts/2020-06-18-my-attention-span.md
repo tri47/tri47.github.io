@@ -32,5 +32,6 @@ It does not cover all my work sessions, but is a good representation of my patte
 
 [This Guardian article](https://www.theguardian.com/education/2016/oct/08/is-the-internet-killing-our-brains) offers a more balanced view.
 
+<sub>*Post icon: Memory by Adrien Coquet from the Noun Project.</sub>
 
 

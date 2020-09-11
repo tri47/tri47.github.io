@@ -57,3 +57,5 @@ The "burger" prompt makes the AI think "fried chicken"! This is largely because 
 The model performs pretty well. I like how it can pick up the tone and vocabulary from the training data with ease. It also picks up on how to write relevant hashtags. It is by no means a replacement for a human writer, but it has the potential to be a powerful virtual assistant who can help provide the starter lines/prompts when a writer is stuck. It will make an excellent prompt generator for writing practice.
 
 The future is bright, right?
+
+<sub>*Post icon: Robot by faisalovers from the Noun Project.</sub>

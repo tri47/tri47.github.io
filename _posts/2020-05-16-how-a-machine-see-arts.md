@@ -145,3 +145,5 @@ The book [Deep Learning with Python](https://www.manning.com/books/deep-learning
 The dataset was obtained from Kaggle's [Best artworks of all time](https://www.kaggle.com/ikarus777/best-artworks-of-all-time) dataset.
 
 I also got many tips from this [Kaggle kernel](https://www.kaggle.com/supratimhaldar/deepartist-identify-artist-from-art) while building the model.
+
+<sub>*Post icon: Art by Flatart from the Noun Project.</sub>
