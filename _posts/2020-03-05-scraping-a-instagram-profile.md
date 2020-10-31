@@ -10,13 +10,13 @@ tags: data-mining social-media python
 ---
 ![](/assets/images/pancake1.png)
 <br/> <br/>
-Instagram has become an important platform for restaurants and cafes to run advertisements and connect with their patrons. I was working on improving customer interactions on Instagram for a restaurant in Melbourne. Naturally, I wanted to analyse past performance. Unfortunately, I couldn't find a (free) way to extract the information easily, so I resorted to web scraping.
+I had troubles getting Instagram posts information for a project I was doing for a restaurant in Melbourne to improve engagement with their patrons. A lot of the tutorial in the web is outdated due to Instagram updates, so I wrote my own here.
 
-I deployed the script as a microservice on AWS Lambda to send a regular report by email to me. The code can be found [here](https://github.com/tri47/instaScraper).
+I deployed the script as a microservice on AWS Lambda to send a regular report by email to me. The code can be found [here](https://github.com/tri47/instaScraper). If you only want to scrape to a csv file, you only need the **instaScraper.py** file.
 
-This post is to explain how to find the information required to run the code, as a lot of the tutorials on the web are outdated due to recent Instagram updates.
+This post explains how to find the information required to run the code.
 
-## Can't I just scrape the page source?
+### Can't I just scrape the page source?
 You can. The problem is the infinite scroll feature.
 
 When you open an Instagram profile page, you get 12 posts by default, then you have to scroll down to load new ones. This process returns the new posts via Javascript and won't update the page source, so you will only end up with the original 12 posts from the page source. 
@@ -25,7 +25,7 @@ This also rules out using Selenium to do the scrolling for you (yeah I tried tha
 
 The following steps will help us get around that.
 
-## Getting all those ID's! 
+### Getting all those ID's! 
 Instagram uses graphQL API for profile pages. The following does not apply to a hashtag page as it uses a different query structure.
 
 To get the query structure, open a public profile page (I use Firefox). Right-click and select Inspect.
@@ -49,21 +49,23 @@ Let's inspect the query string.
 I shortened the random strings a bit to make it more digestible. There are a few important parameters here:
 
 1. query_hash (d496eb...): for an explanation, read [here](https://stackoverflow.com/questions/54238696/what-is-query-hash-in-instagram). Make note of it as one of our inputs.
-2. id (25025320): a unique identifier for the profile page you're querying.
+2. id (25025320): a unique identifier for the profile page you're querying. We need this too.
 3. first: the number of posts to retrieve next, default to 12.
-4. after: an identifier for the last post in the previous query, i.e. post number 12 when you first open the profile page. It tells Instagram to find the next posts after that post ID.
+4. after: an identifier for the last post in the previous query, i.e. post number 12 when you first open the profile page. It tells Instagram to find the next posts after that post ID. We don't need this, but it's nice to know.
 
-Those are all the elements you need to provide the [Python script](https://github.com/tri47/instaScraper) to scrape the data. I have extracted the post URL, description, likes and date.
+Those are all the elements you need to provide the [Python script](https://github.com/tri47/instaScraper) to scrape the data. My script takes these ID's from a params.JSON file formated like below. You can simply hard code it if you only scrape one page.
 
-This helped me get all the data to analyse patterns in user interactions, useful hashtags, etc.
+This is what I would use to extract post information from Instagram Instagram (heh!).
 
-## Endnotes
-I am yet to look at the API provided by Instagram for developers. I am guessing it will make things easier. It's a bit of a shame that we have to jump through all these hoops to get the data that should be readily available for users who created those in the first place. There are a lot of debates going on about the right to our data, and it undoubtedly will become a very crucial decision for us to make as a society.
+> {
+>    "user": "instagram",
+>    "user_id": "25025320" ,
+>    "query_hash": "56a7068fea504063273cc2120ffd54f3"
+> }
 
-![](/assets/images/vienna_meal.jpg)
+The provided script extracts the post URL, description, likes and date. This helped me get all the data to analyse patterns in user interactions, useful hashtags, etc.
 
- <p class= 'image-caption'>A meal on a hiking trip in Puchberg am Schneeberg, Austria. </p>
-
+Leave a comment if you find it useful/have any suggestions!
 
 
 
