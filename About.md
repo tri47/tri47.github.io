@@ -6,7 +6,7 @@ image: "me.jpg"
 ---
 Hi, this is <span class="red-text" style="font-size: 16px"> **Tri**</span> - 'tree'. I am a Data Geek based in <span class="red-text">**Melbourne, Australia**</span>. 
 
-My mission is to help people and organisations navigate our connected, complex world to find <span class="red-text">**facts that matter**</span> to them. 
+My mission is to help people and organisations find <span class="red-text">**facts that matter**</span> to them in our connected and complex world.
 
 Find me on [**LinkedIn**](https://www.linkedin.com/in/tri-q-nguyen), and [**GitHub**](https://github.com/tri47).
 
