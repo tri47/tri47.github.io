@@ -53,6 +53,8 @@ I shortened the random strings a bit to make it more digestible. There are a few
 3. first: the number of posts to retrieve next, default to 12.
 4. after: an identifier for the last post in the previous query, i.e. post number 12 when you first open the profile page. It tells Instagram to find the next posts after that post ID. We don't need this, but it's nice to know.
 
+You also need the name of the Instagram page (like 'apple', 'microsoft' etc.)
+
 Those are all the elements you need to provide the [Python script](https://github.com/tri47/instaScraper) to scrape the data. My script takes these ID's from a params.JSON file formated like below. You can simply hard code it if you only scrape one page.
 
 This is what I would use to extract post information from Instagram Instagram (heh!).
