@@ -7,6 +7,7 @@ image: "textsum.png"
 color: "#3d61ac"
 summary: "Adapting latent sentiment analysis for automatic text summarisation."
 tags: machine-learning NLP web
+published: false
 ---
 
 ![TextSummariserDemo](/assets/images/textsumdemo.gif)
