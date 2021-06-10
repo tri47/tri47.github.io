@@ -6,7 +6,7 @@ date: 2020-07-07
 image: "analyst.png"
 color: "#3d61ac"
 htmlwidgets: TRUE
-summary: The mindset changes to make your dashboard matters.
+summary: The mindset changes to make your dashboard matter.
 tags: discussion analysis
 ---
 
