@@ -27,7 +27,7 @@ Garnbret came fifth in the Speed final, but quickly redeemed herself and gaining
 
 #### Speed Climbing
 
-![](/assets/images/climbing/speed.png)
+![](/assets/images/climbing/Speed.png)
 
 In this event, climbers race up a 95-degree-angled wall to be the first to press a big button at 15 metres.
 
@@ -38,14 +38,14 @@ In this round, athletes are paired and the winner in a race progresses into the 
 
 #### Bouldering
 
-<img src="/assets/images/climbing/bouldering.png" alt="drawing" width="300"/>
+<img src="/assets/images/climbing/Bouldering.png" alt="drawing" width="300"/>
 
 
 In this round, control and technique matter more as climbers have to solve tricky bouldering problems. Athletes do not have to wear a protective harness for this one as the challenges emphasise problem-solving rather than height reached. There are two checkpoints in each problem, the first is called “Zone” and the second is the “Top”. Ideally, you would want to get to the top in all problems, but they have proved to be so tricky that only Garnbret with absolute control and precision could get to the top, not once but twice, and finished first in this discipline.
 
 #### Lead
 
-![](/assets/images/climbing/lead.png)
+![](/assets/images/climbing/Lead.png)
 
 If Speed tests your strength and Bouldering tests your skill, then Lead Climbing adds endurance to the mix. Climbers try to get to the highest point while having to secure themselves by attaching their harness to safety checkpoints along the way.
 Korean Chaehyun Seo made an impressive comeback by getting to the 35th hold and finished in second place, but Garnbret deservedly claimed the gold when she reached the 37th hold that nobody else could match.
