@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Looking back at Olympic 2020 women sport climbing"
+title: "Olympic 2020 women sport climbing"
 subtitle: "women sport climbing Final in three charts"
 date: 2021-08-12
 image: "climbing.png"
 color: "#993366"
 htmlwidgets: TRUE
-summary: The adrenaline-induced women sport climbing final in three charts
+summary: The women sport climbing final in three charts
 tags: visualisation infographic
 ---
 
