@@ -48,7 +48,7 @@ What does it even mean?
 
 A broken water pipe is a problem. It's not an insight. Your water pipe broke because you contracted cousin Jim out of obligation to your mom even though he is perpetually high is an insight.
 
-The revenue has been trending down the last three quarters is not an insight. Anyone with access to the data and minimal excel skill could figure that out.
+The revenue has been trending down the last three quarters is not an insight. Anyone with access to the data and minimal excel skills could figure that out.
 
 The revenue is trending down because the new checkout page sucks is an insight.
 
@@ -74,7 +74,7 @@ Website visit figure is also just a good-to-know if it is not translated into pr
 
 If you don't measure the impact, you leave the interpretation to the audience, then you're providing **reporting**, not **analysis**.
 
-As a side note, we should also be careful when measuring success by dollars.
+As a side note, we should also be careful when measuring success by dollar.
 
 For example, you can show how the running cost of your department is going down, (Yay!). But wait. Is it a result of laying off 20 senior consultants who have been bringing in a healthy profit margin for you?
 
@@ -86,7 +86,7 @@ The moment your audience stops thinking "so what?" when they look at your number
 
 I will be the first to admit I spent way too many hours trying the get my number accurate. At the same time, I am aware that my data suffer from "garbage in, garbage out".
 
-The users did not put in the right numbers, the tool we use only record time in 30 minutes blocks, the vendor software only samples 10% of our data in their extracts. And many more reasons why the data was wrong in the first place.
+The users did not put in the right numbers, the tool we use only records time in 30 minutes blocks, the vendor software only samples 10% of our data in their extracts. And many more reasons why the data was wrong in the first place.
 
 This is not a call to abandon efforts to improve accuracy. It's a call to accept the limitation of our data.
 
