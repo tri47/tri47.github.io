@@ -70,7 +70,7 @@ Any metrics that do not immediately tell you if your business is doing well or n
 
 Is high traffic to our physical stores a good measure of business impact? Not if most people just want to see the products and go buy them online from our competitor.
 
-Website visit figure is also just a good-to-know if it is not translated into profit unless your website's income is from pay per click ads. Even then, you want to measure how much money you're making from clicks, not the site visit itself.
+Website visit figure is also just a good-to-know if it is not translated into profit. Even when it is, you want to measure how much money you're making from clicks, not the site visit itself.
 
 If you don't measure the impact, you leave the interpretation to the audience, then you're providing **reporting**, not **analysis**.
 
