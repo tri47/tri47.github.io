@@ -6,7 +6,7 @@ image: "me.jpg"
 ---
 Hi, this is <span class="red-text" style="font-size: 16px"> **Tristan**</span> (Tri). I am a Data Geek based in <span class="red-text">**Melbourne, Australia**</span>. 
 
-My mission is to help people and organisations build <span class="red-text">**better digital products and experience**</span> leveraging data analytics and cross-organisation partnership.
+My mission is to help people and organisations build <span class="red-text">**better digital products and experience**</span> with data analytics and customer insights.
 
 I am working as a <span class="red-text">**Product Data Analyst**</span> at Openpay. My previous gigs were at Telstra, Spectrum Engineering and the CSIRO. 
 
