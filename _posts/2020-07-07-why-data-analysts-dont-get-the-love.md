@@ -15,7 +15,7 @@ tags: discussion analysis
 ### The abandoned analyst
 You finally consolidated all the important data sources in your company. No more outdated monthly report.
 
-You deployed your ETL jobs and optimised SQL scripts that automated everything. You built a beautiful dashboard and documented all the business rules. You presented your solution. The business loved it.
+You deployed your ETL jobs and optimised SQL scripts. You built a beautiful dashboard and documented all the business rules. You presented your solution. The business loved it.
 
 A few weeks past. Nobody logged into your dashboard ... 
 
@@ -25,11 +25,11 @@ One day the server crashed. Nobody noticed ...
 
 They were running things on spreadsheets again.
 
-So you sat there with an astonished look as the CEO emphasised how important data analytics is for the future of the company in that end of year speech. 
+So you sat there in the company town hall, with an astonished look as the CEO emphasised how important data analytics is for the future of the company. 
 
 It didn't feel that way to you, or to the data analysts and engineers who found this story painfully familiar.
 
-And so, I want to talk about why sometimes our expertly executed data projects are met with such cold apathy.
+I want to talk about why sometimes our expertly executed data projects are met with such cold apathy.
 
 I will discuss:
 
@@ -46,7 +46,7 @@ What does it even mean?
 
 ***Insight <> problem***
 
-A broken water pipe is a problem. It's not an insight. Your water pipe broke because you contracted cousin Jim out of obligation to your mom even though he is perpetually high is an insight.
+A broken water pipe is a problem. It's not an insight. Your water pipe broke because you contracted cousin Jim out of obligation to your mom even though he is perpetually drunk is an insight.
 
 The revenue has been trending down the last three quarters is not an insight. Anyone with access to the data and minimal excel skills could figure that out.
 
