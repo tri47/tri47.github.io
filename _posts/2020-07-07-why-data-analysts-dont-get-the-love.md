@@ -46,7 +46,7 @@ What does it even mean?
 
 ***Insight <> problem***
 
-A broken water pipe is a problem. It's not an insight. Your water pipe broke because you contracted cousin Jim out of obligation to your mom even though he is perpetually drunk is an insight.
+A broken water pipe is a problem. It's not an insight. Your water pipe broke because you fixed it yourself after 15 minutes learning on Youtube to save money is an insight.
 
 The revenue has been trending down the last three quarters is not an insight. Anyone with access to the data and minimal excel skills could figure that out.
 
