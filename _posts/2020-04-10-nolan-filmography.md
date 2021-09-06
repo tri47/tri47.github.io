@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Christopher Nolan filmography: a visualisation"
+title: "Christopher Nolan filmography infographic"
 subtitle: "Visualising 20 years of cinematic genius"
 date: 2020-04-18
 image: "nolan2.png"
