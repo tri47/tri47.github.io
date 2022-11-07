@@ -23,7 +23,7 @@ I stop the clock as soon as I get distracted, even if for only 10 seconds and I 
 [Link to the Tableau workbook.](https://public.tableau.com/profile/tri1422#!/vizhome/TrackingmyAttentionSpan/MyAttentionSpan)
 
 #### How this was made
-I recorded my work sessions with a timesheet software [Clockify](https://clockify.me/). The viz is done in Tableau.
+I recorded my work sessions with a timesheet software called Clockify. The viz is done in Tableau.
 
 It does not cover all my work sessions, but is a good representation of my pattern.
 
