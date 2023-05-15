@@ -8,6 +8,8 @@ color: "#4cadc7"
 htmlwidgets: TRUE
 summary: Calculate how much tax you would pay if you were living in the UK, Belgium or Japan.
 tags: finance tableau analysis
+published: false
+
 ---
 
 ![](/assets/images/tax_time.jpg)
