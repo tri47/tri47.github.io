@@ -13,6 +13,25 @@ tags: discussion analysis
 
 ![](/assets/images/cohort/cohort_top.png)
 
+#### Content
+**The Problem**
+- [The Boring North Star Metric](#the-boring-north-star-metric)
+- [The Challenge with Creating a Good Metric](#the-challenge-with-creating-a-good-metric)
+- [How North Star Metric Turns Bad: Mixing Users in the Denominator](#how-north-star-metric-turns-bad-mixing-users-in-the-denominator)
+
+**Cohort Analysis Deepdive**
+- [Cohort Analysis View 1: The Marketing View](#cohort-analysis-view-1-the-marketing-view)
+- [Cohort Analysis View 2: The Product View](#cohort-analysis-view-2-the-product-view)
+
+**Toward a More Holistic Approach**
+- [Alternative Approach 1: Simple Composite Metric (an Okay Approach)](#alternative-approach-1-simple-composite-metric-an-okay-approach)
+- [Alternative Approach 2: Replace your North Start metric with (shocking!) Two or More Metrics](#alternative-approach-2-replace-your-north-start-metric-with-shocking-two-or-more-metrics)
+- [Overall Approach: Holistic Business Views](#overall-approach-holistic-business-views)
+- [Beyond Cohort: Other Confounding Factors](#beyond-cohort-other-confounding-factors)
+
+
+
+
 #### The Boring North Star Metric
 
 Do you often turn up to your monthly product/business review meetings, check your product dashboard, and never find anything new with those charts?
@@ -28,7 +47,7 @@ And someone (maybe you) will promise to monitor it to see if there's a reversal 
 
 The situation I described is very common, and it can lead to a declining interest in being data-driven since the only thing data seem to tell you is that nothing happens.
 
-#### Creating a Good Metric
+#### The Challenge with Creating a Good Metric
 
 You most likely have come across these advices on how to track good metrics or KR's:
 
@@ -91,7 +110,7 @@ Another way to present the same information is shown in Table 3.
 
 In this view, each row represents the metric for users of different tenures (months from signup). The first row, for instance, shows us that over five months, **new users** (those who have been on the app for one month or less) always engage with the app at the same rate.
 
-With this view, it is easier to see the engagement change over time for users of similar tenure. An example is shown in Table 4 where a new onboarding process introduced in Month 4 leads to improved engagement for new users. 
+With this view, it is easier to see the engagement change over time for users of similar tenure. An example is shown in Table 4 where a new onboarding process introduced in Month 4 leads to improved engagement for new users.
 
 ![](/assets/images/cohort/cohort_view_2_change.png)
 >  Table 4: A change in new (one-month-tenured) users due to a product change in month 4.
@@ -135,13 +154,13 @@ This is currently my preferred approach. There is no information overload while 
 
 #### Overall Approach: Holistic Business Views
 
-If there's one thing I learned dealing with misleading metrics, it is that it is always better to review several metrics that give you a holistic business view.
+From my experience, it is very important that a Product team understands and tracks several metrics which together provide a holistic business view.
 
-There are three types of Metrics that you should pay attention to:
+There are three types of Metrics that a Product team should always pay attention to, regardless of what their current OKR's might be:
 
-- Growth Metric: this is especially important during the early stage of your product. You may sacrifice Retention Rate and User Engagement as long as your User Growth outpaces your Attrition.
-- Retention Metric: this becomes more important later as your growth slows down and your product becomes more mature.
-- Engagement Metric: this is mostly what we talked about in this article. Engagement is a good leading indicator for Retention. It's also something the Product team can better optimize.
+- **Growth Metrics**: this is especially important during the early stage of your product. You may sacrifice Retention Rate and User Engagement as long as your User Growth outpaces your Attrition.
+- **Retention Metrics**: this becomes more important later as your growth slows down and your product becomes more mature.
+- **Engagement Metrics**: this is mostly what we talked about in this article. Engagement is a good leading indicator for Retention. It's also something the Product team can better optimize.
 
 Examining these in tandem gives you a more complete picture of your revenue source, leak (via churn), and a leading indicator (engagement) of future performance.
 
