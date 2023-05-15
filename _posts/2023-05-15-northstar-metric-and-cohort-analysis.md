@@ -2,7 +2,7 @@
 layout: post
 title: "Using cohort analysis to fix misleading product metrics"
 subtitle: "Why mixing users in your North Star (product) metric can be a bad idea"
-date: 2023-05-02
+date: 2023-05-15
 image: "cohort.png"
 color: "#3d61ac"
 htmlwidgets: TRUE
