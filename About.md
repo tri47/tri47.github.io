@@ -4,11 +4,11 @@ title: About Me
 color: "#3d61ac"
 image: "me.jpg"
 ---
-Hi, this is <span class="red-text" style="font-size: 16px"> **Tristan**</span> (Tri). I am a Data Geek based in <span class="red-text">**Melbourne, Australia**</span>. 
+Hi, this is <span class="red-text" style="font-size: 16px"> **Tristan**</span>. I am a Data Geek based in <span class="red-text">**Melbourne, Australia**</span>. 
 
 My mission is to help people and organisations build <span class="red-text">**better digital products and experience**</span> with data analytics and customer insights.
 
-I am working as a <span class="red-text">**Product Data Analyst**</span> at Openpay. My previous gigs were at Telstra, Spectrum Engineering and the CSIRO. 
+I am working as a <span class="red-text">**Senior Product Analyst**</span> at Pluralsight. My previous gigs were at Openpay, Telstra, Spectrum Engineering and the CSIRO.
 
 I am also studying part-time for a Master in Data Science at [**Georgia Tech**](https://www.gatech.edu/). 
 
