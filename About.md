@@ -12,7 +12,7 @@ I am working as a <span class="red-text">**Senior Product Analyst**</span> at Pl
 
 I am also studying part-time for a Master in Data Science at [**Georgia Tech**](https://www.gatech.edu/). 
 
-Find me on [**LinkedIn**](https://www.linkedin.com/in/tristan-q-nguyen), and [**GitHub**](https://github.com/tri47).
+Find me on [**LinkedIn**](https://www.linkedin.com/in/tri-q-nguyen), and [**GitHub**](https://github.com/tri47).
 
 Please feel free to reach out for <span class="red-text">**a chat**</span> about anything over a coffee. Even about the coffee itself!
 
