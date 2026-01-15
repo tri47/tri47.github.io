@@ -30,15 +30,15 @@ Dunkirk is no doubt the most polarising film among Nolan's fans, only considered
 
 Everyone's favourite is, unsurprisingly, The Dark Knight with the stellar performance by Heath Ledger.
 
+![](/assets/images/posts/nolan1.png)
 
-<iframe width="600" height="400" frameborder="0" scrolling="no" src="//plotly.com/~tri.qu.nguyen/22.embed" autosize="True"></iframe>
 
 <br/>
 Looking closer at the profit, Nolan only starts to make blockbusters consistently after the first Batman. I found The Prestige to be his most polished work yet. It's a shame that it did not receive a more deserving commercial success.
 <br/>
 
 
-<iframe width="600" height="400" frameborder="0" scrolling="no" src="//plotly.com/~tri.qu.nguyen/39.embed"></iframe>
+![](/assets/images/posts/nolan1b.png)
 
 <br/>
 <p style="text-align: left;  font-weight: bold; font-size:20px"> "That's why every magic trick has a third act, the hardest part, the part we call The Prestige"
@@ -46,7 +46,8 @@ Looking closer at the profit, Nolan only starts to make blockbusters consistentl
 
 Nolan's films have received 10 Academy Awards and more than thrice as many nominations. With the exception of Heath Ledger receiving an award for performance, most of the nominations and awards are in editting, music and cinematography (hover on the chart to see categories).
 
-<iframe width="600" height="470" frameborder="0" scrolling="no" src="//plotly.com/~tri.qu.nguyen/43.embed"></iframe>
+![](/assets/images/posts/nolan3.png)
+
 
 <br/>
 This brings us to Nolan's most important collaborations. Nolan works with only a handful of composers, cinematographers and editors. Wally Pfister, for instance, has worked on 7 out of 10 of Nolan's films, received 4 nominations and won 1 oscar for cinematography.
@@ -66,10 +67,7 @@ Nolan's films are typically very long (in a good way). Here, we can see exactly 
 The Dark Knight Rises might have received a more positive response had it been a tad shorter.
 <br/>
 
-<div>
-    <a onclick="return false" href="https://plotly.com/~tri.qu.nguyen/53/?share_key=m42H2fWXKkvwOP4uwZiJWK" target="_blank" title="nolan_times" style="display: block; text-align: center;"><img src="https://plotly.com/~tri.qu.nguyen/53.png?share_key=m42H2fWXKkvwOP4uwZiJWK" alt="nolan_times" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="tri.qu.nguyen:53" sharekey-plotly="m42H2fWXKkvwOP4uwZiJWK" src="https://plotly.com/embed.js" async></script>
-</div>
+![](/assets/images/posts/nolan4.png)
 
 <br/>
 <p style="text-align: left;  font-weight: bold; font-size:20px"> "Because making something disappear isn't enough; you have to bring it back."
